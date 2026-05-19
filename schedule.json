@@ -1,1 +1,3164 @@
-{}
+[
+  {
+    "title": "Deploy Splice 0.4.0 on DevNet",
+    "start": "2025-05-28",
+    "end": "2025-05-28",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.1",
+    "start": "2025-06-05",
+    "end": "2025-06-05",
+    "description": ""
+  },
+  {
+    "title": "Propose on DevNet for CIPs 47 & 56",
+    "start": "2025-06-02",
+    "end": "2025-06-02",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.1 on DevNet",
+    "start": "2025-06-09",
+    "end": "2025-06-09",
+    "description": ""
+  },
+  {
+    "title": "Major Upgrade to Canton 3.3 and Splice 0.4.1 on TestNet",
+    "start": "2025-06-11",
+    "end": "2025-06-11",
+    "description": ""
+  },
+  {
+    "title": "Vote effective on DevNet for CIPs 47 & 56; packageConfig ?amulet?: ?0.1.9? and associated packages (see 0.4.0 release notes)",
+    "start": "2025-06-10",
+    "end": "2025-06-10",
+    "description": ""
+  },
+  {
+    "title": "Facilitator: Digital-Asset-1",
+    "start": "2025-06-11",
+    "end": "2025-06-11",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.2",
+    "start": "2025-06-19",
+    "end": "2025-06-19",
+    "description": ""
+  },
+  {
+    "title": "Propose on TestNet for CIPs 47 & 56",
+    "start": "2025-06-16",
+    "end": "2025-06-16",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.2 on DevNet",
+    "start": "2025-06-23",
+    "end": "2025-06-23",
+    "description": ""
+  },
+  {
+    "title": "Major Upgrade WITH DOWNTIME to Canton 3.3 and Splice 0.4.1 on MainNet",
+    "start": "2025-06-25",
+    "end": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.3",
+    "start": "2025-06-26",
+    "end": "2025-06-26",
+    "description": ""
+  },
+  {
+    "title": "Vote effective on TestNet for CIPs 47 & 56 packageConfig ?amulet?: ?0.1.9? and associated packages (see 0.4.0 release notes)",
+    "start": "2025-06-24",
+    "end": "2025-06-24",
+    "description": ""
+  },
+  {
+    "title": "Facilitator: Digital-Asset-2",
+    "start": "2025-06-25",
+    "end": "2025-06-25",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.3 on DevNet",
+    "start": "2025-06-30",
+    "end": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.2 on TestNet",
+    "start": "2025-06-30",
+    "end": "2025-06-30",
+    "description": ""
+  },
+  {
+    "title": "Reset DevNet",
+    "start": "2025-07-02",
+    "end": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.4",
+    "start": "2025-07-03",
+    "end": "2025-07-03",
+    "description": ""
+  },
+  {
+    "title": "Facilitator: Digital-Asset-2",
+    "start": "2025-07-02",
+    "end": "2025-07-02",
+    "description": ""
+  },
+  {
+    "title": "Featured App Markers enabled at CIP default value of $1 on DevNet",
+    "start": "2025-07-01",
+    "end": "2025-07-01",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.4 on DevNet",
+    "start": "2025-07-07",
+    "end": "2025-07-07",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.3 on TestNet",
+    "start": "2025-07-07",
+    "end": "2025-07-07",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.2 on MainNet",
+    "start": "2025-07-07",
+    "end": "2025-07-07",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.5",
+    "start": "2025-07-10",
+    "end": "2025-07-10",
+    "description": ""
+  },
+  {
+    "title": "Vote effective on MainNet for CIPs 47 & 56 packageConfig ?amulet?: ?0.1.9? and associated packages (see 0.4.0 release notes)",
+    "start": "2025-07-08",
+    "end": "2025-07-08",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.5 on DevNet",
+    "start": "2025-07-14",
+    "end": "2025-07-14",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.4 on TestNet",
+    "start": "2025-07-14",
+    "end": "2025-07-14",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.3 on MainNet",
+    "start": "2025-07-14",
+    "end": "2025-07-14",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.7",
+    "start": "2025-07-17",
+    "end": "2025-07-17",
+    "description": ""
+  },
+  {
+    "title": "Vote effective on DevNet for CIP 64 (delegateless automation). dsoGovernance: 0.1.13. See 0.4.4 release notes",
+    "start": "2025-07-16",
+    "end": "2025-07-16",
+    "description": ""
+  },
+  {
+    "title": "Featured App Markers enabled at CIP default value of $1 on TestNet",
+    "start": "2025-07-15",
+    "end": "2025-07-15",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.7 on DevNet",
+    "start": "2025-07-21",
+    "end": "2025-07-21",
+    "description": ""
+  },
+  {
+    "title": "(skipping 0.4.6)",
+    "start": "2025-07-21",
+    "end": "2025-07-21",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.5 on TestNet",
+    "start": "2025-07-21",
+    "end": "2025-07-21",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.4 on MainNet",
+    "start": "2025-07-21",
+    "end": "2025-07-21",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.8",
+    "start": "2025-07-24",
+    "end": "2025-07-24",
+    "description": ""
+  },
+  {
+    "title": "Vote effective on TestNet for CIP 64 (delegateless automation). dsoGovernance: 0.1.13. See 0.4.4 release notes",
+    "start": "2025-07-23",
+    "end": "2025-07-23",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.8 on DevNet",
+    "start": "2025-07-28",
+    "end": "2025-07-28",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.7 on TestNet",
+    "start": "2025-07-28",
+    "end": "2025-07-28",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.5 on MainNet",
+    "start": "2025-07-28",
+    "end": "2025-07-28",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.9",
+    "start": "2025-07-31",
+    "end": "2025-07-31",
+    "description": ""
+  },
+  {
+    "title": "Featured App Markers enabled at CIP default value of $1 on MainNet",
+    "start": "2025-07-29",
+    "end": "2025-07-29",
+    "description": ""
+  },
+  {
+    "title": "Vote effective on MainNet for CIP 64 (delegateless automation). dsoGovernance: 0.1.13. See 0.4.4 release notes",
+    "start": "2025-07-30",
+    "end": "2025-07-30",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.9 on DevNet",
+    "start": "2025-08-04",
+    "end": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.8 on TestNet",
+    "start": "2025-08-04",
+    "end": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.7 on MainNet",
+    "start": "2025-08-04",
+    "end": "2025-08-04",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.10",
+    "start": "2025-08-07",
+    "end": "2025-08-07",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.10 on DevNet",
+    "start": "2025-08-11",
+    "end": "2025-08-11",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.9 on TestNet",
+    "start": "2025-08-11",
+    "end": "2025-08-11",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.8 on MainNet",
+    "start": "2025-08-11",
+    "end": "2025-08-11",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.11",
+    "start": "2025-08-14",
+    "end": "2025-08-14",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.11 on DevNet",
+    "start": "2025-08-18",
+    "end": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.10 on TestNet",
+    "start": "2025-08-18",
+    "end": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.9 on MainNet",
+    "start": "2025-08-18",
+    "end": "2025-08-18",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.12",
+    "start": "2025-08-21",
+    "end": "2025-08-21",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.12 on DevNet",
+    "start": "2025-08-25",
+    "end": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.11 on TestNet",
+    "start": "2025-08-25",
+    "end": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.10 on MainNet",
+    "start": "2025-08-25",
+    "end": "2025-08-25",
+    "description": ""
+  },
+  {
+    "title": "Votes for all Daml model changes from 0.4.5 through 0.4.10 will take effect on DevNet (CIPs: CIP-0066 and CIP-0068)",
+    "start": "2025-08-26",
+    "end": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Super Validators vote to reject the outstanding vote about Daml model changes on TestNet",
+    "start": "2025-08-26",
+    "end": "2025-08-26",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice Release 0.4.13 (contains bugfixes for issues encountered on DevNet on , including dsoGovernance 0.1.18)",
+    "start": "2025-08-28",
+    "end": "2025-08-28",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.13 on DevNet",
+    "start": "2025-08-29",
+    "end": "2025-08-29",
+    "description": ""
+  },
+  {
+    "title": "GSF/IEU start vote for upgrading dsoGovernance to 0.1.18 (bugfix)",
+    "start": "2025-08-29",
+    "end": "2025-08-29",
+    "description": ""
+  },
+  {
+    "title": "Votes for dsoGovernance bugfix (0.1.18) take effect on DevNet",
+    "start": "2025-08-29",
+    "end": "2025-08-29",
+    "description": ""
+  },
+  {
+    "title": "(earliest possible date; upgrade becomes effective once threshold is reached)",
+    "start": "2025-08-29",
+    "end": "2025-08-29",
+    "description": ""
+  },
+  {
+    "title": "TestNet Reset 9 am US Eastern",
+    "start": "2025-09-03",
+    "end": "2025-09-03",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.13 on DevNet",
+    "start": "2025-09-01",
+    "end": "2025-09-01",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.12 on TestNet",
+    "start": "2025-09-01",
+    "end": "2025-09-01",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.11 on MainNet",
+    "start": "2025-09-01",
+    "end": "2025-09-01",
+    "description": ""
+  },
+  {
+    "title": "Votes for all Daml model changes from 0.4.5 through 0.4.10 will take effect on TestNet (CIPs: CIP-0066 and CIP-0068)",
+    "start": "2025-09-02",
+    "end": "2025-09-02",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.14 on DevNet (bugfix release)",
+    "start": "2025-09-04",
+    "end": "2025-09-04",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.14 on DevNet",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.13 on TestNet",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.15 on DevNet",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.14 on TestNet",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.12 on MainNet",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "GSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.13",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.13",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.18",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.5",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.13",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.13",
+    "start": "2025-09-08",
+    "end": "2025-09-08",
+    "description": ""
+  },
+  {
+    "title": "Votes for all Daml model changes from 0.4.5 through 0.4.10 will take effect on MainNet (CIPs: CIP-0066 and CIP-0068)",
+    "start": "2025-09-09",
+    "end": "2025-09-09",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.4.16",
+    "start": "2025-09-11",
+    "end": "2025-09-11",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.15 on DevNet",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.14 on TestNet",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.13 on MainNet\r\rDeploy Splice 0.4.16 on DevNet",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.15 on TestNet",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.14 on MainNet",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "(shortly before Daml model changes take effect) SVs disable their ExpireRewardCouponsTrigger",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "Votes for all Daml model changes from 0.4.5 through 0.4.14 will take effect on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.13",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.13",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.18",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.5",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.13",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.13",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.4.17",
+    "start": "2025-09-18",
+    "end": "2025-09-18",
+    "description": ""
+  },
+  {
+    "title": "GSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on MainNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.13",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.13",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.18",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.5",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.13",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.13",
+    "start": "2025-09-15",
+    "end": "2025-09-15",
+    "description": ""
+  },
+  {
+    "title": "(shortly after Daml model changes take effect)",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "DA-2 confirms a good value for ignored-expired-rewards-party-ids",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "All SVs adopt the proposed value for ignored-expired-rewards-party-ids and resume ExpireRewardCouponsTrigger",
+    "start": "2025-09-16",
+    "end": "2025-09-16",
+    "description": ""
+  },
+  {
+    "title": "(shortly before Daml model changes take effect) SVs disable their ExpireRewardCouponsTrigger",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.17 on DevNet",
+    "start": "2025-09-22",
+    "end": "2025-09-22",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.16 on TestNet",
+    "start": "2025-09-22",
+    "end": "2025-09-22",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.15 on MainNet",
+    "start": "2025-09-22",
+    "end": "2025-09-22",
+    "description": ""
+  },
+  {
+    "title": "Votes for all Daml model changes from 0.4.5 through 0.4.14 will take effect on MainNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.13",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.13",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.18",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.5",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.13",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.13",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.4.18",
+    "start": "2025-09-25",
+    "end": "2025-09-25",
+    "description": ""
+  },
+  {
+    "title": "(shortly after Daml model changes take effect)",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "DA-2 confirms a good value for ignored-expired-rewards-party-ids",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "All SVs adopt the proposed value for ignored-expired-rewards-party-ids and resume ExpireRewardCouponsTrigger",
+    "start": "2025-09-23",
+    "end": "2025-09-23",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.18 on DevNet",
+    "start": "2025-09-29",
+    "end": "2025-09-29",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.17 on TestNet",
+    "start": "2025-09-29",
+    "end": "2025-09-29",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.16 on MainNet",
+    "start": "2025-09-29",
+    "end": "2025-09-29",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.4.19",
+    "start": "2025-10-02",
+    "end": "2025-10-02",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.4.17 effective on DevNet (Daml models supporting  CIP-0078, including holding fees changes)",
+    "start": "2025-10-02",
+    "end": "2025-10-02",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.19 on DevNet",
+    "start": "2025-10-06",
+    "end": "2025-10-06",
+    "description": ""
+  },
+  {
+    "title": "No Upgrade on TestNet, version is skipped",
+    "start": "2025-10-06",
+    "end": "2025-10-06",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.17 on MainNet",
+    "start": "2025-10-06",
+    "end": "2025-10-06",
+    "description": ""
+  },
+  {
+    "title": "TestNet Reset 9 am US Eastern",
+    "start": "2025-10-08",
+    "end": "2025-10-08",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.4.20",
+    "start": "2025-10-09",
+    "end": "2025-10-09",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.4.17 effective on TestNet (Daml models supporting  CIP-0078, including holding fees changes)",
+    "start": "2025-10-09",
+    "end": "2025-10-09",
+    "description": ""
+  },
+  {
+    "title": "CC Transfer Fees to Zero effective on DevNet (remainder of CIP-0078 takes effect)",
+    "start": "2025-10-09",
+    "end": "2025-10-09",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.4.18 effective on DevNet (CIP-0079)",
+    "start": "2025-10-10",
+    "end": "2025-10-10",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.20 on DevNet",
+    "start": "2025-10-13",
+    "end": "2025-10-13",
+    "description": ""
+  },
+  {
+    "title": "Deploy Splice 0.4.19 on TestNet",
+    "start": "2025-10-13",
+    "end": "2025-10-13",
+    "description": ""
+  },
+  {
+    "title": "No Upgrade on MainNet, version is skipped",
+    "start": "2025-10-13",
+    "end": "2025-10-13",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.4.21",
+    "start": "2025-10-16",
+    "end": "2025-10-16",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.4.17 effective on MainNet (Daml models supporting CIP-0078, including holding fees changes)",
+    "start": "2025-10-16",
+    "end": "2025-10-16",
+    "description": ""
+  },
+  {
+    "title": "CC Transfer Fees to Zero effective on TestNet (remainder of CIP-0078 takes effect)",
+    "start": "2025-10-17",
+    "end": "2025-10-17",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes upgrade to 0.4.21\r\rTestNet SV nodes upgrade to 0.4.20",
+    "start": "2025-10-17",
+    "end": "2025-10-17",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes upgrade to 0.4.19",
+    "start": "2025-10-17",
+    "end": "2025-10-17",
+    "description": ""
+  },
+  {
+    "title": "DevNet Validator nodes upgrade to Splice 0.4.21",
+    "start": "2025-10-20",
+    "end": "2025-10-20",
+    "description": ""
+  },
+  {
+    "title": "TestNet Validator nodes upgrade to Splice 0.4.20",
+    "start": "2025-10-20",
+    "end": "2025-10-20",
+    "description": ""
+  },
+  {
+    "title": "MainNet Validator nodes upgrade to 0.4.19",
+    "start": "2025-10-20",
+    "end": "2025-10-20",
+    "description": ""
+  },
+  {
+    "title": "Daml versions originally packaged with 0.4.18 effective on TestNet (CIP-0079)",
+    "start": "2025-10-21",
+    "end": "2025-10-21",
+    "description": ""
+  },
+  {
+    "title": "CC Transfer Fees to Zero effective on MainNet (remainder of CIP-0078 takes effect)",
+    "start": "2025-10-23",
+    "end": "2025-10-23",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes remain on Splice 0.4.21\r\rTestNet SV nodes remain on Splice 0.4.20",
+    "start": "2025-10-20",
+    "end": "2025-10-20",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes upgrade to Splice 0.4.20",
+    "start": "2025-10-20",
+    "end": "2025-10-20",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes (not Validators) upgrade to Splice 0.4.22",
+    "start": "2025-10-22",
+    "end": "2025-10-22",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV nodes (not Validators) upgrade from Splice 0.4.20 -> 0.4.22",
+    "start": "2025-10-23",
+    "end": "2025-10-23",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes (not Validators) upgrade from Splice 0.4.20 -> 0.4.22",
+    "start": "2025-10-24",
+    "end": "2025-10-24",
+    "description": ""
+  },
+  {
+    "title": "DevNet Validators upgrade to Splice 0.4.22\rTestNet Validators upgrade to Splice 0.4.21\rMainNet Validators upgrade to Splice 0.4.20",
+    "start": "2025-10-27",
+    "end": "2025-10-27",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes remain on Splice 0.4.22",
+    "start": "2025-10-27",
+    "end": "2025-10-27",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV nodes remain on Splice 0.4.22",
+    "start": "2025-10-27",
+    "end": "2025-10-27",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes remain on 0.4.22",
+    "start": "2025-10-27",
+    "end": "2025-10-27",
+    "description": ""
+  },
+  {
+    "title": "Daml versions originally packaged with 0.4.18 effective on MainNet (CIP-0079)",
+    "start": "2025-10-28",
+    "end": "2025-10-28",
+    "description": ""
+  },
+  {
+    "title": "DevNet Validators upgrade to Splice 0.4.23\rTestNet Validators upgrade to Splice 0.4.22\rMainNet Validators upgrade to Splice 0.4.21",
+    "start": "2025-11-03",
+    "end": "2025-11-03",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes upgrade to Splice 0.4.23",
+    "start": "2025-11-03",
+    "end": "2025-11-03",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV nodes remain on Splice 0.4.22",
+    "start": "2025-11-03",
+    "end": "2025-11-03",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes remain on 0.4.22",
+    "start": "2025-11-03",
+    "end": "2025-11-03",
+    "description": ""
+  },
+  {
+    "title": "DevNet Major Upgrade to Splice 0.5.1 / Canton 3.4",
+    "start": "2025-11-12",
+    "end": "2025-11-12",
+    "description": ""
+  },
+  {
+    "title": "DevNet Validators remain on Splice 0.4.23\rTestNet Validators upgrade to Splice 0.4.23\rMainNet Validators upgrade to Splice 0.4.22",
+    "start": "2025-11-10",
+    "end": "2025-11-10",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes upgrade to Splice 0.4.25",
+    "start": "2025-11-10",
+    "end": "2025-11-10",
+    "description": ""
+  },
+  {
+    "title": "DevNet SV nodes spin up staging nodes for the major upgrade.",
+    "start": "2025-11-10",
+    "end": "2025-11-10",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV nodes upgrade to Splice 0.4.25",
+    "start": "2025-11-10",
+    "end": "2025-11-10",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes remain on 0.4.22",
+    "start": "2025-11-10",
+    "end": "2025-11-10",
+    "description": ""
+  },
+  {
+    "title": "Facilitator: MPCH",
+    "start": "2025-11-12",
+    "end": "2025-11-12",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.1",
+    "start": "2025-11-17",
+    "end": "2025-11-17",
+    "description": ""
+  },
+  {
+    "title": "TestNet Validators remain on Splice 0.4.23",
+    "start": "2025-11-17",
+    "end": "2025-11-17",
+    "description": ""
+  },
+  {
+    "title": "MainNet Validators upgrade to Splice 0.4.23",
+    "start": "2025-11-17",
+    "end": "2025-11-17",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV nodes remain on Splice 0.4.25",
+    "start": "2025-11-17",
+    "end": "2025-11-17",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV Nodes upgrade to Splice 0.4.25",
+    "start": "2025-11-17",
+    "end": "2025-11-17",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.5.2",
+    "start": "2025-11-20",
+    "end": "2025-11-20",
+    "description": ""
+  },
+  {
+    "title": "Cut release 0.5.3 due to problematic default introduced in 0.5.2",
+    "start": "2025-11-21",
+    "end": "2025-11-21",
+    "description": ""
+  },
+  {
+    "title": "TestNet Major Upgrade on TestNet to Splice 0.5.1 / Canton 3.4",
+    "start": "2025-11-26",
+    "end": "2025-11-26",
+    "description": ""
+  },
+  {
+    "title": "SVs and Validators deploy Splice 0.5.3 on DevNet (we skip 0.5.2)",
+    "start": "2025-11-24",
+    "end": "2025-11-24",
+    "description": ""
+  },
+  {
+    "title": "TestNet Validators remain on Splice 0.4.23",
+    "start": "2025-11-24",
+    "end": "2025-11-24",
+    "description": ""
+  },
+  {
+    "title": "MainNet Validators remain on Splice 0.4.23",
+    "start": "2025-11-24",
+    "end": "2025-11-24",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV nodes remain on Splice 0.4.25",
+    "start": "2025-11-24",
+    "end": "2025-11-24",
+    "description": ""
+  },
+  {
+    "title": "TestNet SV Nodes spin up staging nodes for the major upgrade with downtime",
+    "start": "2025-11-24",
+    "end": "2025-11-24",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes remain on Splice 0.4.25",
+    "start": "2025-11-24",
+    "end": "2025-11-24",
+    "description": ""
+  },
+  {
+    "title": "Facilitator: Digital-Asset-1",
+    "start": "2025-11-26",
+    "end": "2025-11-26",
+    "description": ""
+  },
+  {
+    "title": "Automated upgrade announcements re-enabled",
+    "start": "2025-12-02",
+    "end": "2025-12-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.3",
+    "start": "2025-12-01",
+    "end": "2025-12-01",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.1",
+    "start": "2025-12-01",
+    "end": "2025-12-01",
+    "description": ""
+  },
+  {
+    "title": "MainNet Validators remain on Splice 0.4.23",
+    "start": "2025-12-01",
+    "end": "2025-12-01",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes remain on Splice 0.4.25",
+    "start": "2025-12-01",
+    "end": "2025-12-01",
+    "description": ""
+  },
+  {
+    "title": "(once release available) DevNet SVs upgrade to Splice 0.5.4",
+    "start": "2025-12-02",
+    "end": "2025-12-02",
+    "description": ""
+  },
+  {
+    "title": "(once ? of SVs have upgraded) DevNet validators upgrade to Splice 0.5.4",
+    "start": "2025-12-03",
+    "end": "2025-12-03",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice  0.5.4",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "description": ""
+  },
+  {
+    "title": "TestNet SVs upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "description": ""
+  },
+  {
+    "title": "(once ? of SVs have upgraded) TestNet validators upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "description": ""
+  },
+  {
+    "title": "MainNet Validators remain on Splice 0.4.23",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes remain on Splice 0.4.25",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "description": ""
+  },
+  {
+    "title": "MainNet SV nodes set up staging nodes for the major upgrade with downtime",
+    "start": "2025-12-08",
+    "end": "2025-12-08",
+    "description": ""
+  },
+  {
+    "title": "MainNet Major Upgrade on MainNet to Splice 0.5.1 / Canton 3.4",
+    "start": "2025-12-10",
+    "end": "2025-12-10",
+    "description": ""
+  },
+  {
+    "title": "Facilitator: Digital-Asset-2",
+    "start": "2025-12-10",
+    "end": "2025-12-10",
+    "description": ""
+  },
+  {
+    "title": "MainNet SVs upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "start": "2025-12-11",
+    "end": "2025-12-11",
+    "description": ""
+  },
+  {
+    "title": "(once ? of",
+    "start": "2025-12-11",
+    "end": "2025-12-11",
+    "description": ""
+  },
+  {
+    "title": "SVs have upgraded) MainNet validators upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "start": "2025-12-11",
+    "end": "2025-12-11",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.4",
+    "start": "2025-12-15",
+    "end": "2025-12-15",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.4",
+    "start": "2025-12-15",
+    "end": "2025-12-15",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.4",
+    "start": "2025-12-15",
+    "end": "2025-12-15",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.4",
+    "start": "2025-12-22",
+    "end": "2025-12-22",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.4",
+    "start": "2025-12-22",
+    "end": "2025-12-22",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.4",
+    "start": "2025-12-22",
+    "end": "2025-12-22",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.4",
+    "start": "2025-12-29",
+    "end": "2025-12-29",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.4",
+    "start": "2025-12-29",
+    "end": "2025-12-29",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.4",
+    "start": "2025-12-29",
+    "end": "2025-12-29",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.4",
+    "start": "2026-01-05",
+    "end": "2026-01-05",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.4",
+    "start": "2026-01-05",
+    "end": "2026-01-05",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.4",
+    "start": "2026-01-05",
+    "end": "2026-01-05",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.5",
+    "start": "2026-01-08",
+    "end": "2026-01-08",
+    "description": ""
+  },
+  {
+    "title": "January 10th - 11th: Round 78,840: Minting Curve halving. Reward shares shift from SVs to app providers",
+    "start": "2026-01-09",
+    "end": "2026-01-09",
+    "description": ""
+  },
+  {
+    "title": "January 9th: High-priority multi-party test trades / workflows on TestNet",
+    "start": "2026-01-09",
+    "end": "2026-01-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.5",
+    "start": "2026-01-12",
+    "end": "2026-01-12",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.4",
+    "start": "2026-01-12",
+    "end": "2026-01-12",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.4",
+    "start": "2026-01-12",
+    "end": "2026-01-12",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.6",
+    "start": "2026-01-15",
+    "end": "2026-01-15",
+    "description": ""
+  },
+  {
+    "title": "DevNet SVs upgrade to Splice 0.5.6, DevNet Validators stay on 0.5.5",
+    "start": "2026-01-19",
+    "end": "2026-01-19",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.5",
+    "start": "2026-01-19",
+    "end": "2026-01-19",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.4",
+    "start": "2026-01-19",
+    "end": "2026-01-19",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.7",
+    "start": "2026-01-22",
+    "end": "2026-01-22",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.7",
+    "start": "2026-01-26",
+    "end": "2026-01-26",
+    "description": ""
+  },
+  {
+    "title": "TestNet SVs upgrade to Splice 0.5.6, TestNet Validators stay on 0.5.5",
+    "start": "2026-01-26",
+    "end": "2026-01-26",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.5",
+    "start": "2026-01-26",
+    "end": "2026-01-26",
+    "description": ""
+  },
+  {
+    "title": "DevNet SVs upgrade to Splice 0.5.8",
+    "start": "2026-01-27",
+    "end": "2026-01-27",
+    "description": ""
+  },
+  {
+    "title": "DevNet Validators upgrade to Splice 0.5.8",
+    "start": "2026-01-28",
+    "end": "2026-01-28",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.5.7 effective on DevNet (CIP-82 development fund accumulation).",
+    "start": "2026-01-29",
+    "end": "2026-01-29",
+    "description": ""
+  },
+  {
+    "title": "Note: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades. \r\rCut Splice release 0.5.9",
+    "start": "2026-01-29",
+    "end": "2026-01-29",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.9.",
+    "start": "2026-02-02",
+    "end": "2026-02-02",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.8 (skipping 0.5.7)",
+    "start": "2026-02-02",
+    "end": "2026-02-02",
+    "description": ""
+  },
+  {
+    "title": "MainNet SVs upgrade to Splice 0.5.6, MainNet Validators stay on 0.5.5",
+    "start": "2026-02-02",
+    "end": "2026-02-02",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.5.7 effective on TestNet (CIP-82 development fund accumulation)",
+    "start": "2026-02-05",
+    "end": "2026-02-05",
+    "description": ""
+  },
+  {
+    "title": "Note: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades.",
+    "start": "2026-02-05",
+    "end": "2026-02-05",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.10",
+    "start": "2026-02-05",
+    "end": "2026-02-05",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.10",
+    "start": "2026-02-09",
+    "end": "2026-02-09",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.9",
+    "start": "2026-02-09",
+    "end": "2026-02-09",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.8 (skipping 0.5.7)",
+    "start": "2026-02-09",
+    "end": "2026-02-09",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.5.9 effective on DevNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
+    "start": "2026-02-10",
+    "end": "2026-02-10",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from 0.5.7 effective on MainNet (CIP-82 development fund accumulation)",
+    "start": "2026-02-12",
+    "end": "2026-02-12",
+    "description": ""
+  },
+  {
+    "title": "DevNet, TestNet and MainNet Validator Liveness rewards go from 3.33 per round to 2.5 per round",
+    "start": "2026-02-12",
+    "end": "2026-02-12",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.11",
+    "start": "2026-02-12",
+    "end": "2026-02-12",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.11",
+    "start": "2026-02-16",
+    "end": "2026-02-16",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.10",
+    "start": "2026-02-16",
+    "end": "2026-02-16",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.9",
+    "start": "2026-02-16",
+    "end": "2026-02-16",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from Splice 0.5.9 effective on TestNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
+    "start": "2026-02-17",
+    "end": "2026-02-17",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.12",
+    "start": "2026-02-19",
+    "end": "2026-02-19",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.12",
+    "start": "2026-02-23",
+    "end": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.11",
+    "start": "2026-02-23",
+    "end": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.10",
+    "start": "2026-02-23",
+    "end": "2026-02-23",
+    "description": ""
+  },
+  {
+    "title": "Daml versions from Splice 0.5.9 effective on MainNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
+    "start": "2026-02-24",
+    "end": "2026-02-24",
+    "description": ""
+  },
+  {
+    "title": "Daml Versions from 0.5.11 effective on DevNet (App Marker Efficiency Improvements)",
+    "start": "2026-02-24",
+    "end": "2026-02-24",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.13",
+    "start": "2026-02-26",
+    "end": "2026-02-26",
+    "description": ""
+  },
+  {
+    "title": "Daml Versions from 0.5.11 effective on TestNet (App Marker Efficiency Improvements)",
+    "start": "2026-03-03",
+    "end": "2026-03-03",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.13",
+    "start": "2026-03-02",
+    "end": "2026-03-02",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.12",
+    "start": "2026-03-02",
+    "end": "2026-03-02",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.11 (Free confirmation responses go live on MainNet)",
+    "start": "2026-03-02",
+    "end": "2026-03-02",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.14",
+    "start": "2026-03-05",
+    "end": "2026-03-05",
+    "description": ""
+  },
+  {
+    "title": "Daml Versions from 0.5.11 effective on MainNet (App Marker Efficiency Improvements) postponed due to an issue in the SV app for converting featured app activity markers",
+    "start": "2026-03-10",
+    "end": "2026-03-10",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.14",
+    "start": "2026-03-09",
+    "end": "2026-03-09",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.13",
+    "start": "2026-03-09",
+    "end": "2026-03-09",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.12",
+    "start": "2026-03-09",
+    "end": "2026-03-09",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.15",
+    "start": "2026-03-12",
+    "end": "2026-03-12",
+    "description": ""
+  },
+  {
+    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on DevNet",
+    "start": "2026-03-16",
+    "end": "2026-03-16",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.15",
+    "start": "2026-03-16",
+    "end": "2026-03-16",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.14",
+    "start": "2026-03-16",
+    "end": "2026-03-16",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.13",
+    "start": "2026-03-16",
+    "end": "2026-03-16",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.16",
+    "start": "2026-03-19",
+    "end": "2026-03-19",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.16",
+    "start": "2026-03-23",
+    "end": "2026-03-23",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.15",
+    "start": "2026-03-23",
+    "end": "2026-03-23",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.14",
+    "start": "2026-03-23",
+    "end": "2026-03-23",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.17",
+    "start": "2026-03-26",
+    "end": "2026-03-26",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.17",
+    "start": "2026-03-30",
+    "end": "2026-03-30",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.16",
+    "start": "2026-03-30",
+    "end": "2026-03-30",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.15",
+    "start": "2026-03-30",
+    "end": "2026-03-30",
+    "description": ""
+  },
+  {
+    "title": "Daml Versions from Splice 0.5.11 effective on MainNet.",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "Daml Model versions that will become effective: amulet 0.1.16",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.17",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.22",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.17",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.16",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "CIP that approved this (or none): none: Scalability improvement.",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "Features enabled: add support for weighted featured app markers.",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.5.18 (last release on 0.5.x / Canton 3.4)",
+    "start": "2026-04-02",
+    "end": "2026-04-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.18",
+    "start": "2026-04-06",
+    "end": "2026-04-06",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.17",
+    "start": "2026-04-06",
+    "end": "2026-04-06",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.16",
+    "start": "2026-04-06",
+    "end": "2026-04-06",
+    "description": ""
+  },
+  {
+    "title": "(no planned splice release)",
+    "start": "2026-04-09",
+    "end": "2026-04-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.18",
+    "start": "2026-04-13",
+    "end": "2026-04-13",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.5.18",
+    "start": "2026-04-13",
+    "end": "2026-04-13",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.17",
+    "start": "2026-04-13",
+    "end": "2026-04-13",
+    "description": ""
+  },
+  {
+    "title": "Daml model versions from Splice 0.5.16 effective on DevNet\r\rDaml Model versions that will become effective:",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.17",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "CIP that approved this (or none): CIP-0107",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "Features enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "description": ""
+  },
+  {
+    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on MainNet",
+    "start": "2026-04-15",
+    "end": "2026-04-15",
+    "description": ""
+  },
+  {
+    "title": "(no planned splice release)",
+    "start": "2026-04-16",
+    "end": "2026-04-16",
+    "description": ""
+  },
+  {
+    "title": "DevNet remains on Splice 0.5.18",
+    "start": "2026-04-20",
+    "end": "2026-04-20",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.18",
+    "start": "2026-04-20",
+    "end": "2026-04-20",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.5.18",
+    "start": "2026-04-20",
+    "end": "2026-04-20",
+    "description": ""
+  },
+  {
+    "title": "Daml model versions from Splice 0.5.16 effective on TestNet\r\r\rDaml Model versions that will become effective:",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.17",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "CIP that approved this (or none): CIP-0107",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "Features enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
+    "description": ""
+  },
+  {
+    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on TestNet",
+    "start": "2026-04-23",
+    "end": "2026-04-23",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.6.0 (first one based on Canton 3.5)",
+    "start": "2026-04-24",
+    "end": "2026-04-24",
+    "description": ""
+  },
+  {
+    "title": "Splice 0.6.0 failed early DevNet  testing.",
+    "start": "2026-04-24",
+    "end": "2026-04-24",
+    "description": ""
+  },
+  {
+    "title": "Cut Splice release 0.6.1",
+    "start": "2026-04-27",
+    "end": "2026-04-27",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.1",
+    "start": "2026-04-28",
+    "end": "2026-04-28",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on Splice 0.5.18",
+    "start": "2026-04-28",
+    "end": "2026-04-28",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.18",
+    "start": "2026-04-28",
+    "end": "2026-04-28",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.2",
+    "start": "2026-04-30",
+    "end": "2026-04-30",
+    "description": ""
+  },
+  {
+    "title": "Validator Liveness Rewards go to zero",
+    "start": "2026-04-30",
+    "end": "2026-04-30",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.2",
+    "start": "2026-05-04",
+    "end": "2026-05-04",
+    "description": ""
+  },
+  {
+    "title": "TestNet remains on 0.5.18",
+    "start": "2026-05-04",
+    "end": "2026-05-04",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.18",
+    "start": "2026-05-04",
+    "end": "2026-05-04",
+    "description": ""
+  },
+  {
+    "title": "Daml model versions from Splice 0.5.16 effective on MainNet\r\rDaml Model versions that will become effective:",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.17",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "CIP that approved this (or none): CIP-0107",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "Features enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.3",
+    "start": "2026-05-07",
+    "end": "2026-05-07",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.3",
+    "start": "2026-05-11",
+    "end": "2026-05-11",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.6.2",
+    "start": "2026-05-11",
+    "end": "2026-05-11",
+    "description": ""
+  },
+  {
+    "title": "MainNet remains on Splice 0.5.18",
+    "start": "2026-05-11",
+    "end": "2026-05-11",
+    "description": ""
+  },
+  {
+    "title": "Minimum Versions",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "Splice:",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.5.16\rTestNet: 0.5.16",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.5.16",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.4",
+    "start": "2026-05-14",
+    "end": "2026-05-14",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars:",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.17",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.17",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17\r\rMainNet:\ramulet 0.1.17",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
+    "description": ""
+  },
+  {
+    "title": "SVs confirm LSU deployment automation in place and tested",
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "description": ""
+  },
+  {
+    "title": "Daml models from 0.6.1 effective on DevNet (required to vote on LSU:  CIP-0117)",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.4",
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.6.3",
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.6.2",
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "description": ""
+  },
+  {
+    "title": "Minimum Versions",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "Splice:",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.6.2\rTestNet: 0.5.16",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.5.16",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars:",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.17",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17\r\rMainNet:\ramulet 0.1.17",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.5",
+    "start": "2026-05-21",
+    "end": "2026-05-21",
+    "description": ""
+  },
+  {
+    "title": "Daml models from 0.6.1 effective on TestNet (required to vote on LSU: CIP- 0117)",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.5",
+    "start": "2026-05-25",
+    "end": "2026-05-25",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.6.4",
+    "start": "2026-05-25",
+    "end": "2026-05-25",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.6.3",
+    "start": "2026-05-25",
+    "end": "2026-05-25",
+    "description": ""
+  },
+  {
+    "title": "Minimum Versions",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "Splice:",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.6.4\rTestNet: 0.6.2",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.5.16",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "DevNet LSU practice pv34->pv34,",
+    "start": "2026-05-27",
+    "end": "2026-05-27",
+    "description": ""
+  },
+  {
+    "title": "validators must upgrade to >= 0.6.4 before the LSU",
+    "start": "2026-05-27",
+    "end": "2026-05-27",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.6",
+    "start": "2026-05-28",
+    "end": "2026-05-28",
+    "description": ""
+  },
+  {
+    "title": "Confirm timing of traffic-based app rewards with DA and Obsidian",
+    "start": "2026-05-29",
+    "end": "2026-05-29",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars:",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "MainNet:\ramulet 0.1.17",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.18",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.23",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.6",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.18",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.17",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
+    "description": ""
+  },
+  {
+    "title": "Daml models from 0.6.1 effective on MainNet (required to vote on LSU: CIP-0117)",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.6",
+    "start": "2026-06-01",
+    "end": "2026-06-01",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.6.5",
+    "start": "2026-06-01",
+    "end": "2026-06-01",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.6.4",
+    "start": "2026-06-01",
+    "end": "2026-06-01",
+    "description": ""
+  },
+  {
+    "title": "Minimum Versions",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "Splice:",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.6.4\rTestNet: 0.6.2",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.2",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.4 before the LSU",
+    "start": "2026-06-03",
+    "end": "2026-06-03",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.7",
+    "start": "2026-06-04",
+    "end": "2026-06-04",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars:",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "MainNet:\ramulet 0.1.18",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.7",
+    "start": "2026-06-08",
+    "end": "2026-06-08",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.6.6",
+    "start": "2026-06-08",
+    "end": "2026-06-08",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.6.5",
+    "start": "2026-06-08",
+    "end": "2026-06-08",
+    "description": ""
+  },
+  {
+    "title": "Minimum Versions",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "Splice:",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.6.4\rTestNet: 0.6.4",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.2",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.4 before the LSU",
+    "start": "2026-06-10",
+    "end": "2026-06-10",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.8",
+    "start": "2026-06-11",
+    "end": "2026-06-11",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars:",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "MainNet:\ramulet 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.8",
+    "start": "2026-06-15",
+    "end": "2026-06-15",
+    "description": ""
+  },
+  {
+    "title": "TestNet upgrades to Splice 0.6.7",
+    "start": "2026-06-15",
+    "end": "2026-06-15",
+    "description": ""
+  },
+  {
+    "title": "MainNet upgrades to Splice 0.6.6",
+    "start": "2026-06-15",
+    "end": "2026-06-15",
+    "description": ""
+  },
+  {
+    "title": "Minimum Versions",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "Splice:",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.6.4\rTestNet: 0.6.4",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.4",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars:",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "amulet 0.1.18",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "MainNet:\ramulet 0.1.18",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "amuletNameService 0.1.19",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "dsoGovernance 0.1.24",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "wallet 0.1.19",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "walletPayments 0.1.18",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
+    "title": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.4 before the LSU",
+    "start": "2026-06-17",
+    "end": "2026-06-17",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.9",
+    "start": "2026-06-18",
+    "end": "2026-06-18",
+    "description": ""
+  },
+  {
+    "title": "Deprecated Scan API endpoints removed from Splice on DevNet",
+    "start": "2026-07-13",
+    "end": "2026-07-13",
+    "description": ""
+  },
+  {
+    "title": "Deprecated Scan API endpoints removed from Splice on TestNet",
+    "start": "2026-07-20",
+    "end": "2026-07-20",
+    "description": ""
+  },
+  {
+    "title": "Deprecated Scan API endpoints removed from Splice on MainNet",
+    "start": "2026-07-27",
+    "end": "2026-07-27",
+    "description": ""
+  }
+]
