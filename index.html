@@ -6,108 +6,279 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <style>
+    :root {
+      --bg: #03030a;
+      --card: #120b25;
+      --card-2: #1b1036;
+      --purple: #7c4dff;
+      --purple-soft: #c99cff;
+      --yellow: #f3ea4e;
+      --text: #f7f4ff;
+      --muted: #cdb8ef;
+      --border: #7c4dff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
+      margin: 0;
       font-family: Inter, Arial, sans-serif;
-      max-width: 960px;
+      background:
+        radial-gradient(circle at top left, rgba(124,77,255,0.22), transparent 35%),
+        linear-gradient(180deg, #03030a 0%, #070711 100%);
+      color: var(--text);
+      padding: 32px 24px;
+    }
+
+    .page {
+      max-width: 1100px;
       margin: 0 auto;
-      padding: 32px 20px;
-      background: #f6f7fb;
-      color: #1f2937;
     }
 
     header {
-      background: white;
-      padding: 24px;
-      border-radius: 18px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-      margin-bottom: 24px;
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      align-items: center;
+      margin-bottom: 34px;
+    }
+
+    .brand {
+      display: flex;
+      gap: 18px;
+      align-items: center;
     }
 
     .logo {
+      width: 72px;
+      height: 72px;
+      border: 1px solid var(--purple);
+      border-radius: 18px;
+      display: grid;
+      place-items: center;
       font-size: 34px;
-      margin-bottom: 8px;
+      background: linear-gradient(145deg, #1b1036, #080812);
+      box-shadow: 0 0 28px rgba(124,77,255,0.25);
     }
 
     h1 {
       margin: 0;
-      font-size: 30px;
+      font-size: 38px;
+      letter-spacing: -1px;
     }
 
     .subtitle {
+      color: var(--muted);
       margin-top: 8px;
-      color: #6b7280;
+      font-size: 16px;
+    }
+
+    nav {
+      display: flex;
+      gap: 28px;
+      font-size: 16px;
+    }
+
+    nav a {
+      color: var(--purple-soft);
+      text-decoration: none;
+    }
+
+    nav a.active {
+      color: var(--yellow);
+      border-bottom: 2px solid var(--yellow);
+      padding-bottom: 10px;
+    }
+
+    .panel {
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      background: linear-gradient(135deg, rgba(27,16,54,0.95), rgba(8,8,18,0.95));
+      padding: 28px;
+      box-shadow: 0 0 32px rgba(124,77,255,0.16);
+      margin-bottom: 24px;
     }
 
     .controls {
-      display: flex;
-      gap: 12px;
-      margin-top: 20px;
-      flex-wrap: wrap;
+      display: grid;
+      grid-template-columns: 1fr 190px auto;
+      gap: 18px;
     }
 
-    input, select, a.button {
-      padding: 12px 14px;
-      border-radius: 12px;
-      border: 1px solid #d1d5db;
-      font-size: 15px;
+    input, select, .button {
+      background: #0c0a18;
+      border: 1px solid rgba(201,156,255,0.45);
+      color: var(--text);
+      border-radius: 14px;
+      padding: 15px 18px;
+      font-size: 16px;
     }
 
-    input {
-      flex: 1;
-      min-width: 240px;
+    input::placeholder {
+      color: #9b8bb7;
     }
 
-    a.button {
-      background: #111827;
-      color: white;
+    .button {
+      background: transparent;
+      color: var(--yellow);
+      border-color: var(--yellow);
       text-decoration: none;
-      border: none;
+      box-shadow: 0 0 20px rgba(243,234,78,0.18);
+      white-space: nowrap;
+    }
+
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      color: var(--muted);
+      margin: 26px 12px;
+      font-size: 14px;
     }
 
     .event {
-      background: white;
+      display: grid;
+      grid-template-columns: 120px 1px 1fr;
+      gap: 28px;
+      align-items: center;
+      border: 1px solid var(--border);
       border-radius: 16px;
-      padding: 18px;
-      margin-bottom: 14px;
-      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+      background:
+        radial-gradient(circle at left, rgba(124,77,255,0.22), transparent 42%),
+        linear-gradient(135deg, #1a0f34, #070812);
+      padding: 24px 28px;
+      margin-bottom: 16px;
+      box-shadow: 0 8px 28px rgba(0,0,0,0.25);
     }
 
-    .date {
-      font-weight: 700;
-      color: #4f46e5;
-      margin-bottom: 8px;
+    .datebox {
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+    .weekday {
+      color: var(--purple-soft);
+      font-weight: 800;
+      font-size: 18px;
+    }
+
+    .month {
+      margin-top: 6px;
+      font-size: 18px;
+    }
+
+    .day {
+      font-size: 42px;
+      line-height: 1;
+      margin-top: 4px;
+    }
+
+    .divider {
+      width: 1px;
+      height: 76px;
+      background: rgba(255,255,255,0.35);
     }
 
     .title {
-      font-size: 18px;
-      line-height: 1.4;
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 14px;
+    }
+
+    .pill {
+      display: inline-block;
+      color: var(--purple-soft);
+      border: 1px solid rgba(201,156,255,0.35);
+      border-radius: 999px;
+      padding: 6px 12px;
+      background: rgba(124,77,255,0.16);
+      font-size: 14px;
     }
 
     .empty {
-      color: #6b7280;
-      padding: 24px;
       text-align: center;
+      color: var(--muted);
+      padding: 40px;
+    }
+
+    footer {
+      margin-top: 28px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 760px) {
+      header, .meta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      nav {
+        display: none;
+      }
+
+      .controls {
+        grid-template-columns: 1fr;
+      }
+
+      .event {
+        grid-template-columns: 1fr;
+        gap: 14px;
+      }
+
+      .divider {
+        display: none;
+      }
+
+      .datebox {
+        text-align: left;
+      }
     }
   </style>
 </head>
 
 <body>
-  <header>
-    <div class="logo">📅</div>
-    <h1>SV Operations Schedule</h1>
-    <div class="subtitle">Public schedule feed generated from the source doc.</div>
+  <div class="page">
+    <header>
+      <div class="brand">
+        <div class="logo">📅</div>
+        <div>
+          <h1>SV Operations Schedule</h1>
+          <div class="subtitle">Public schedule feed generated from the source doc.</div>
+        </div>
+      </div>
 
-    <div class="controls">
-      <input id="search" placeholder="Search events..." />
-      <select id="sort">
-        <option value="newest">Newest first</option>
-        <option value="oldest">Oldest first</option>
-      </select>
-      <a class="button" href="./schedule.ics">Subscribe / Download ICS</a>
+      <nav>
+        <a class="active" href="#">Schedule</a>
+        <a href="./schedule.ics">Subscribe</a>
+        <a href="#about">About</a>
+      </nav>
+    </header>
+
+    <section class="panel">
+      <div class="controls">
+        <input id="search" placeholder="Search events..." />
+        <select id="sort">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+        <a class="button" href="./schedule.ics">📅 Subscribe / Download ICS</a>
+      </div>
+    </section>
+
+    <div class="meta">
+      <div id="updated">↻ Loading schedule...</div>
+      <div>● Auto-updates hourly</div>
     </div>
-  </header>
 
-  <main id="events"></main>
+    <main id="events"></main>
+
+    <footer id="about">
+      Questions or issues? Contact the operations team.
+    </footer>
+  </div>
 
   <script>
     let allEvents = [];
@@ -115,17 +286,21 @@
     async function loadSchedule() {
       const response = await fetch('./schedule.json?cache=' + Date.now());
       allEvents = await response.json();
+
+      document.getElementById('updated').textContent =
+        '↻ Last updated: ' + new Date().toLocaleString();
+
       renderEvents();
     }
 
-    function formatDate(dateText) {
+    function getDateParts(dateText) {
       const date = new Date(dateText + 'T00:00:00');
-      return date.toLocaleDateString(undefined, {
-        weekday: 'short',
-        year: 'numeric',
-        month: 'short',
-        day: 'numeric'
-      });
+
+      return {
+        weekday: date.toLocaleDateString(undefined, { weekday: 'short' }),
+        month: date.toLocaleDateString(undefined, { month: 'short' }),
+        day: date.toLocaleDateString(undefined, { day: 'numeric' })
+      };
     }
 
     function renderEvents() {
@@ -134,8 +309,8 @@
       const sort = document.getElementById('sort').value;
 
       let events = allEvents.filter(event =>
-        event.title.toLowerCase().includes(search) ||
-        event.start.includes(search)
+        String(event.title || '').toLowerCase().includes(search) ||
+        String(event.start || '').includes(search)
       );
 
       events.sort((a, b) => {
@@ -153,12 +328,24 @@
       }
 
       events.forEach(event => {
+        const date = getDateParts(event.start);
+
         const div = document.createElement('div');
         div.className = 'event';
 
         div.innerHTML = `
-          <div class="date">${formatDate(event.start)}</div>
-          <div class="title">${event.title}</div>
+          <div class="datebox">
+            <div class="weekday">${date.weekday}</div>
+            <div class="month">${date.month}</div>
+            <div class="day">${date.day}</div>
+          </div>
+
+          <div class="divider"></div>
+
+          <div>
+            <div class="title">${event.title}</div>
+            <div class="pill">◷ All day</div>
+          </div>
         `;
 
         container.appendChild(div);
