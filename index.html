@@ -218,6 +218,67 @@
         font-size: 11px;
       }
     }
+    @media (max-width: 700px) {
+  body {
+    padding: 18px 12px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  .logo {
+    width: 56px;
+    height: 56px;
+    font-size: 26px;
+  }
+
+  .panel {
+    padding: 16px;
+  }
+
+  .calendar,
+  .weekdays {
+    display: block;
+  }
+
+  .weekdays {
+    display: none;
+  }
+
+  .day {
+    min-height: auto;
+    margin-bottom: 14px;
+    padding: 14px;
+  }
+
+  .day.outside {
+    display: none;
+  }
+
+  .day-number {
+    font-size: 20px;
+    color: var(--yellow);
+    border-bottom: 1px solid rgba(201,156,255,0.25);
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+  }
+
+  .day-number::before {
+    content: "Day ";
+  }
+
+  .event {
+    font-size: 14px;
+    line-height: 1.45;
+    padding: 10px;
+  }
+
+  .meta {
+    flex-direction: column;
+    gap: 8px;
+  }
+}
   </style>
 </head>
 
