@@ -972,13 +972,13 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.4\rTestNet: 0.6.2\nMainNet: 0.5.16",
+    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-05-26",
     "end": "2026-05-26",
     "description": ""
   },
   {
-    "title": "DevNet LSU practice pv34->pv34,\nvalidators must upgrade to >= 0.6.4 before the LSU",
+    "title": "DevNet LSU practice pv34->pv34,\nvalidators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-05-27",
     "end": "2026-05-27",
     "description": ""
@@ -1014,13 +1014,13 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.4\rTestNet: 0.6.2\nMainNet: 0.6.2",
+    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.6.2",
     "start": "2026-06-02",
     "end": "2026-06-02",
     "description": ""
   },
   {
-    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.4 before the LSU",
+    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-03",
     "end": "2026-06-03",
     "description": ""
@@ -1044,13 +1044,13 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.4\rTestNet: 0.6.4\nMainNet: 0.6.2",
+    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
     "start": "2026-06-09",
     "end": "2026-06-09",
     "description": ""
   },
   {
-    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.4 before the LSU",
+    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-10",
     "end": "2026-06-10",
     "description": ""
@@ -1074,13 +1074,13 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.4\rTestNet: 0.6.4\nMainNet: 0.6.4\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "start": "2026-06-16",
     "end": "2026-06-16",
     "description": ""
   },
   {
-    "title": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.4 before the LSU",
+    "title": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-17",
     "end": "2026-06-17",
     "description": ""
