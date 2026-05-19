@@ -1,70 +1,172 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>SV Operations Schedule</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <style>
     body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 20px;
-      background: #f5f5f5;
+      font-family: Inter, Arial, sans-serif;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 32px 20px;
+      background: #f6f7fb;
+      color: #1f2937;
+    }
+
+    header {
+      background: white;
+      padding: 24px;
+      border-radius: 18px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      margin-bottom: 24px;
+    }
+
+    .logo {
+      font-size: 34px;
+      margin-bottom: 8px;
     }
 
     h1 {
-      margin-bottom: 30px;
+      margin: 0;
+      font-size: 30px;
+    }
+
+    .subtitle {
+      margin-top: 8px;
+      color: #6b7280;
+    }
+
+    .controls {
+      display: flex;
+      gap: 12px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+
+    input, select, a.button {
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid #d1d5db;
+      font-size: 15px;
+    }
+
+    input {
+      flex: 1;
+      min-width: 240px;
+    }
+
+    a.button {
+      background: #111827;
+      color: white;
+      text-decoration: none;
+      border: none;
     }
 
     .event {
       background: white;
-      border-radius: 10px;
-      padding: 16px;
-      margin-bottom: 16px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+      border-radius: 16px;
+      padding: 18px;
+      margin-bottom: 14px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.06);
     }
 
     .date {
-      font-weight: bold;
-      color: #444;
+      font-weight: 700;
+      color: #4f46e5;
       margin-bottom: 8px;
     }
 
     .title {
       font-size: 18px;
+      line-height: 1.4;
+    }
+
+    .empty {
+      color: #6b7280;
+      padding: 24px;
+      text-align: center;
     }
   </style>
 </head>
 
 <body>
-  <h1>SV Operations Schedule</h1>
+  <header>
+    <div class="logo">📅</div>
+    <h1>SV Operations Schedule</h1>
+    <div class="subtitle">Public schedule feed generated from the source doc.</div>
 
-  <div id="events"></div>
+    <div class="controls">
+      <input id="search" placeholder="Search events..." />
+      <select id="sort">
+        <option value="newest">Newest first</option>
+        <option value="oldest">Oldest first</option>
+      </select>
+      <a class="button" href="./schedule.ics">Subscribe / Download ICS</a>
+    </div>
+  </header>
+
+  <main id="events"></main>
 
   <script>
-    async function loadSchedule() {
-      const response = await fetch('./schedule.json');
-      const events = await response.json();
+    let allEvents = [];
 
+    async function loadSchedule() {
+      const response = await fetch('./schedule.json?cache=' + Date.now());
+      allEvents = await response.json();
+      renderEvents();
+    }
+
+    function formatDate(dateText) {
+      const date = new Date(dateText + 'T00:00:00');
+      return date.toLocaleDateString(undefined, {
+        weekday: 'short',
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric'
+      });
+    }
+
+    function renderEvents() {
       const container = document.getElementById('events');
+      const search = document.getElementById('search').value.toLowerCase();
+      const sort = document.getElementById('sort').value;
+
+      let events = allEvents.filter(event =>
+        event.title.toLowerCase().includes(search) ||
+        event.start.includes(search)
+      );
 
       events.sort((a, b) => {
-        return new Date(b.start) - new Date(a.start);
+        if (sort === 'newest') {
+          return new Date(b.start) - new Date(a.start);
+        }
+        return new Date(a.start) - new Date(b.start);
       });
+
+      container.innerHTML = '';
+
+      if (!events.length) {
+        container.innerHTML = '<div class="empty">No events found.</div>';
+        return;
+      }
 
       events.forEach(event => {
         const div = document.createElement('div');
         div.className = 'event';
 
         div.innerHTML = `
-          <div class="date">${event.start}</div>
+          <div class="date">${formatDate(event.start)}</div>
           <div class="title">${event.title}</div>
         `;
 
         container.appendChild(div);
       });
     }
+
+    document.getElementById('search').addEventListener('input', renderEvents);
+    document.getElementById('sort').addEventListener('change', renderEvents);
 
     loadSchedule();
   </script>
