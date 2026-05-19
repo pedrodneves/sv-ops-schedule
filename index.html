@@ -306,9 +306,14 @@
 
       calendar.innerHTML = '';
 
-      for (let i = 0; i < 42; i++) {
+      for (let i = 0; i < 35; i++) {
         const dayDate = new Date(gridStart);
         dayDate.setDate(gridStart.getDate() + i);
+        const weekday = dayDate.getDay();
+
+if (weekday === 0 || weekday === 6) {
+  continue;
+}
 
         const key = dateKey(dayDate);
         const todayKey = dateKey(new Date());
