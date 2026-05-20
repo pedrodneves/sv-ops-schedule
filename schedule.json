@@ -955,8 +955,8 @@
   },
   {
     "title": "Cut splice release 0.6.5",
-    "start": "2026-05-21",
-    "end": "2026-05-21",
+    "start": "2026-05-22",
+    "end": "2026-05-22",
     "description": ""
   },
   {
@@ -975,12 +975,6 @@
     "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-05-26",
     "end": "2026-05-26",
-    "description": ""
-  },
-  {
-    "title": "DevNet LSU practice pv34->pv34,\nvalidators must upgrade to >= 0.6.5 before the LSU",
-    "start": "2026-05-27",
-    "end": "2026-05-27",
     "description": ""
   },
   {
@@ -1020,7 +1014,7 @@
     "description": ""
   },
   {
-    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "title": "DevNet LSU practice pv34->pv34,\nvalidators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-03",
     "end": "2026-06-03",
     "description": ""
@@ -1050,7 +1044,7 @@
     "description": ""
   },
   {
-    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-10",
     "end": "2026-06-10",
     "description": ""
@@ -1080,7 +1074,7 @@
     "description": ""
   },
   {
-    "title": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\n\nWill be moved pending discussion on which day it should be: MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-17",
     "end": "2026-06-17",
     "description": ""
@@ -1107,6 +1101,66 @@
     "title": "Deprecated Scan API endpoints removed from Splice on MainNet",
     "start": "2026-07-27",
     "end": "2026-07-27",
+    "description": ""
+  },
+  {
+    "title": "October 26, 2026",
+    "start": "2026-10-19",
+    "end": "2026-10-19",
+    "description": ""
+  },
+  {
+    "title": "October 27, 2026",
+    "start": "2026-10-20",
+    "end": "2026-10-20",
+    "description": ""
+  },
+  {
+    "title": "October 28, 2026",
+    "start": "2026-10-21",
+    "end": "2026-10-21",
+    "description": ""
+  },
+  {
+    "title": "October 29 , 2026",
+    "start": "2026-10-22",
+    "end": "2026-10-22",
+    "description": ""
+  },
+  {
+    "title": "August 30, 2026",
+    "start": "2026-10-23",
+    "end": "2026-10-23",
+    "description": ""
+  },
+  {
+    "title": "December 28, 2026",
+    "start": "2026-12-21",
+    "end": "2026-12-21",
+    "description": ""
+  },
+  {
+    "title": "December 29, 2026",
+    "start": "2026-12-22",
+    "end": "2026-12-22",
+    "description": ""
+  },
+  {
+    "title": "December 30, 2026",
+    "start": "2026-12-23",
+    "end": "2026-12-23",
+    "description": ""
+  },
+  {
+    "title": "December 31, 2026",
+    "start": "2026-12-24",
+    "end": "2026-12-24",
+    "description": ""
+  },
+  {
+    "title": "6",
+    "start": "2026-12-25",
+    "end": "2026-12-25",
     "description": ""
   }
 ]
