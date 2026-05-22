@@ -1068,6 +1068,12 @@
     "description": ""
   },
   {
+    "title": "Cut splice release 0.6.9",
+    "start": "2026-06-18",
+    "end": "2026-06-18",
+    "description": ""
+  },
+  {
     "title": "DevNet upgrades to Splice 0.6.8\nTestNet upgrades to Splice 0.6.7\nMainNet upgrades to Splice 0.6.6",
     "start": "2026-06-15",
     "end": "2026-06-15",
@@ -1080,13 +1086,13 @@
     "description": ""
   },
   {
-    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\n\nWill be moved pending discussion on which day it should be: MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\n\r*******",
     "start": "2026-06-17",
     "end": "2026-06-17",
     "description": ""
   },
   {
-    "title": "Cut splice release 0.6.9",
+    "title": "Date to be determined based on final discussion among SVs: MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-18",
     "end": "2026-06-18",
     "description": ""
@@ -1134,7 +1140,7 @@
     "description": ""
   },
   {
-    "title": "August 30, 2026",
+    "title": "October 30, 2026",
     "start": "2026-10-23",
     "end": "2026-10-23",
     "description": ""
@@ -1161,12 +1167,6 @@
     "title": "December 31, 2026",
     "start": "2026-12-24",
     "end": "2026-12-24",
-    "description": ""
-  },
-  {
-    "title": "6",
-    "start": "2026-12-25",
-    "end": "2026-12-25",
     "description": ""
   }
 ]
