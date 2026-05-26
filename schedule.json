@@ -996,13 +996,7 @@
     "description": ""
   },
   {
-    "title": "Daml models from 0.6.1 effective on MainNet (required to vote on LSU: CIP-0117)",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": ""
-  },
-  {
-    "title": "DevNet upgrades to Splice 0.6.6\nTestNet upgrades to Splice 0.6.5\nMainNet upgrades to Splice 0.6.4",
+    "title": "DevNet upgrades to Splice 0.6.6\nTestNet upgrades to Splice 0.6.5\nMainNet upgrades to Splice 0.6.4\n\nset up synchronizer nodes for the practice LSU",
     "start": "2026-06-01",
     "end": "2026-06-01",
     "description": ""
@@ -1026,7 +1020,7 @@
     "description": ""
   },
   {
-    "title": "Splice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "title": "Splice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
     "start": "2026-06-02",
     "end": "2026-06-02",
     "description": ""
