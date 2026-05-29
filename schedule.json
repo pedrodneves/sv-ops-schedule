@@ -1998,7 +1998,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.6.2",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-06-01",
     "end": "2026-06-01",
     "description": ""
@@ -2022,7 +2022,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.6.2",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-06-01",
     "end": "2026-06-01",
     "description": ""
@@ -2070,7 +2070,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
     "start": "2026-06-08",
     "end": "2026-06-08",
     "description": ""
@@ -2094,7 +2094,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
     "start": "2026-06-08",
     "end": "2026-06-08",
     "description": ""
@@ -2142,7 +2142,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "start": "2026-06-15",
     "end": "2026-06-15",
     "description": ""
@@ -2166,7 +2166,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "start": "2026-06-15",
     "end": "2026-06-15",
     "description": ""
