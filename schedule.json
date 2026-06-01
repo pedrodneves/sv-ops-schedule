@@ -2232,6 +2232,18 @@
     "description": ""
   },
   {
+    "title": "w",
+    "start": "2026-08-02",
+    "end": "2026-08-02",
+    "description": ""
+  },
+  {
+    "title": "w",
+    "start": "2026-08-02",
+    "end": "2026-08-02",
+    "description": ""
+  },
+  {
     "title": "Deprecated TransferCommand functionality removed from validator app from TestNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
     "start": "2026-08-09",
     "end": "2026-08-09",
