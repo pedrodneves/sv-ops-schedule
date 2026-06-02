@@ -374,10 +374,6 @@
         dayDate.setDate(gridStart.getDate() + i);
         const weekday = dayDate.getDay();
 
-if (weekday === 0 || weekday === 6) {
-  continue;
-}
-
         const key = dateKey(dayDate);
         const todayKey = dateKey(new Date());
 
