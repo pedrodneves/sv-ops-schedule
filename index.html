@@ -135,9 +135,9 @@
     }
 
     .calendar {
-      display: grid;
-      grid-template-columns: repeat(7, 1fr);
-      gap: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
     }
 
     .day {
@@ -215,6 +215,7 @@
       }
 
       .day {
+        flex: 1;
         min-height: 110px;
         padding: 8px;
       }
