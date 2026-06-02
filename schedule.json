@@ -1044,7 +1044,7 @@
     "description": ""
   },
   {
-    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "title": "9 am US Eastern / 1300 UTC: \n\nDevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU. \r\rTopology freeze starts June 9th, 24 hours before LSU",
     "start": "2026-06-10",
     "end": "2026-06-10",
     "description": ""
@@ -1080,43 +1080,91 @@
     "description": ""
   },
   {
-    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\n\r*******",
+    "title": "9 am US Eastern / 1300 UTC: \n\nTestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU. \r\rTopology freeze starts June 16th, 24 hours before LSU",
     "start": "2026-06-17",
     "end": "2026-06-17",
     "description": ""
   },
   {
-    "title": "Date to be determined based on final discussion among SVs: MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
-    "start": "2026-06-18",
-    "end": "2026-06-18",
+    "title": "DevNet upgrades to Splice 0.6.9\nTestNet upgrades to Splice 0.6.8\nMainNet upgrades to Splice 0.6.7",
+    "start": "2026-06-22",
+    "end": "2026-06-22",
     "description": ""
   },
   {
-    "title": "Deprecated Scan API endpoints removed from Splice on DevNet",
+    "title": "Cut splice release 0.6.10",
+    "start": "2026-06-25",
+    "end": "2026-06-25",
+    "description": ""
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC: \n\nMainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU \r\rTopology freeze starts June 27th, 24 hours before LSU",
+    "start": "2026-06-28",
+    "end": "2026-06-28",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.10\nTestNet upgrades to Splice 0.6.9\nMainNet upgrades to Splice 0.6.8",
+    "start": "2026-06-29",
+    "end": "2026-06-29",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.11",
+    "start": "2026-07-02",
+    "end": "2026-07-02",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.11\nTestNet upgrades to Splice 0.6.9\nMainNet upgrades to Splice 0.6.8",
+    "start": "2026-07-06",
+    "end": "2026-07-06",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.12",
+    "start": "2026-07-09",
+    "end": "2026-07-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.12\nTestNet upgrades to Splice 0.6.11\nMainNet upgrades to Splice 0.6.10",
     "start": "2026-07-13",
     "end": "2026-07-13",
     "description": ""
   },
   {
-    "title": "Deprecated Scan API endpoints removed from Splice on TestNet",
+    "title": "Cut splice release 0.6.13",
+    "start": "2026-07-16",
+    "end": "2026-07-16",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.14",
+    "start": "2026-07-23",
+    "end": "2026-07-23",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.6.13\nTestNet upgrades to Splice 0.6.12\nMainNet upgrades to Splice 0.6.11",
     "start": "2026-07-20",
     "end": "2026-07-20",
     "description": ""
   },
   {
-    "title": "Deprecated Scan API endpoints removed from Splice on MainNet",
+    "title": "DevNet upgrades to Splice 0.6.14\nTestNet upgrades to Splice 0.6.13\nMainNet upgrades to Splice 0.6.12",
     "start": "2026-07-27",
     "end": "2026-07-27",
     "description": ""
   },
   {
-    "title": "Deprecated TransferCommand functionality removed from validator app from DevNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
-    "start": "2026-08-03",
-    "end": "2026-08-03",
+    "title": "Cut splice release 0.6.15",
+    "start": "2026-07-30",
+    "end": "2026-07-30",
     "description": ""
   },
   {
-    "title": "w",
+    "title": "Deprecated TransferCommand functionality removed from validator app from DevNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
     "start": "2026-08-03",
     "end": "2026-08-03",
     "description": ""
