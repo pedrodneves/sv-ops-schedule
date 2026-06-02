@@ -1,524 +1,524 @@
 [
   {
     "title": "DevNet remains on Splice 0.5.4\nTestNet remains on Splice 0.5.4\nMainNet remains on Splice 0.5.4",
-    "start": "2026-01-04",
-    "end": "2026-01-04",
+    "start": "2026-01-05",
+    "end": "2026-01-05",
     "description": ""
   },
   {
     "title": "Cut Splice release 0.5.5",
-    "start": "2026-01-07",
-    "end": "2026-01-07",
-    "description": ""
-  },
-  {
-    "title": "January 10th - 11th: Round 78,840: Minting Curve halving. Reward shares shift from SVs to app providers\n\nJanuary 9th: High-priority multi-party test trades / workflows on TestNet",
     "start": "2026-01-08",
     "end": "2026-01-08",
     "description": ""
   },
   {
+    "title": "January 10th - 11th: Round 78,840: Minting Curve halving. Reward shares shift from SVs to app providers\n\nJanuary 9th: High-priority multi-party test trades / workflows on TestNet",
+    "start": "2026-01-09",
+    "end": "2026-01-09",
+    "description": ""
+  },
+  {
     "title": "DevNet upgrades to Splice 0.5.5\nTestNet remains on Splice 0.5.4\nMainNet remains on Splice 0.5.4",
-    "start": "2026-01-11",
-    "end": "2026-01-11",
+    "start": "2026-01-12",
+    "end": "2026-01-12",
     "description": ""
   },
   {
     "title": "Cut Splice release 0.5.6",
-    "start": "2026-01-14",
-    "end": "2026-01-14",
+    "start": "2026-01-15",
+    "end": "2026-01-15",
     "description": ""
   },
   {
     "title": "DevNet SVs upgrade to Splice 0.5.6, DevNet Validators stay on 0.5.5\nTestNet upgrades to Splice 0.5.5\nMainNet remains on Splice 0.5.4",
-    "start": "2026-01-18",
-    "end": "2026-01-18",
+    "start": "2026-01-19",
+    "end": "2026-01-19",
     "description": ""
   },
   {
     "title": "Cut Splice release 0.5.7",
-    "start": "2026-01-21",
-    "end": "2026-01-21",
+    "start": "2026-01-22",
+    "end": "2026-01-22",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.7\n\nTestNet SVs upgrade to Splice 0.5.6, TestNet Validators stay on 0.5.5\n\nMainNet upgrades to Splice 0.5.5",
-    "start": "2026-01-25",
-    "end": "2026-01-25",
-    "description": ""
-  },
-  {
-    "title": "DevNet SVs upgrade to Splice 0.5.8",
     "start": "2026-01-26",
     "end": "2026-01-26",
     "description": ""
   },
   {
-    "title": "DevNet Validators upgrade to Splice 0.5.8",
+    "title": "DevNet SVs upgrade to Splice 0.5.8",
     "start": "2026-01-27",
     "end": "2026-01-27",
     "description": ""
   },
   {
-    "title": "Daml versions from 0.5.7 effective on DevNet (CIP-82 development fund accumulation).\n\nNote: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades. \r\rCut Splice release 0.5.9",
+    "title": "DevNet Validators upgrade to Splice 0.5.8",
     "start": "2026-01-28",
     "end": "2026-01-28",
     "description": ""
   },
   {
+    "title": "Daml versions from 0.5.7 effective on DevNet (CIP-82 development fund accumulation).\n\nNote: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades. \r\rCut Splice release 0.5.9",
+    "start": "2026-01-29",
+    "end": "2026-01-29",
+    "description": ""
+  },
+  {
     "title": "DevNet upgrades to Splice 0.5.9.\n\nTestNet upgrades to Splice 0.5.8 (skipping 0.5.7)\n\nMainNet SVs upgrade to Splice 0.5.6, MainNet Validators stay on 0.5.5",
-    "start": "2026-02-01",
-    "end": "2026-02-01",
+    "start": "2026-02-02",
+    "end": "2026-02-02",
     "description": ""
   },
   {
     "title": "Daml versions from 0.5.7 effective on TestNet (CIP-82 development fund accumulation)\r\nNote: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades.\n\rCut Splice release 0.5.10",
-    "start": "2026-02-04",
-    "end": "2026-02-04",
+    "start": "2026-02-05",
+    "end": "2026-02-05",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.10\nTestNet upgrades to Splice 0.5.9\nMainNet upgrades to Splice 0.5.8 (skipping 0.5.7)",
-    "start": "2026-02-08",
-    "end": "2026-02-08",
-    "description": ""
-  },
-  {
-    "title": "Daml versions from 0.5.9 effective on DevNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
     "start": "2026-02-09",
     "end": "2026-02-09",
     "description": ""
   },
   {
+    "title": "Daml versions from 0.5.9 effective on DevNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
+    "start": "2026-02-10",
+    "end": "2026-02-10",
+    "description": ""
+  },
+  {
     "title": "Daml versions from 0.5.7 effective on MainNet (CIP-82 development fund accumulation)\r\nDevNet, TestNet and MainNet Validator Liveness rewards go from 3.33 per round to 2.5 per round\n\nCut Splice release 0.5.11",
-    "start": "2026-02-11",
-    "end": "2026-02-11",
+    "start": "2026-02-12",
+    "end": "2026-02-12",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.11\nTestNet upgrades to Splice 0.5.10\nMainNet upgrades to Splice 0.5.9",
-    "start": "2026-02-15",
-    "end": "2026-02-15",
-    "description": ""
-  },
-  {
-    "title": "Daml versions from Splice 0.5.9 effective on TestNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
     "start": "2026-02-16",
     "end": "2026-02-16",
     "description": ""
   },
   {
+    "title": "Daml versions from Splice 0.5.9 effective on TestNet (CIP-0073 and CIP-0096 support for Minting Delegation)",
+    "start": "2026-02-17",
+    "end": "2026-02-17",
+    "description": ""
+  },
+  {
     "title": "Cut Splice release 0.5.12",
-    "start": "2026-02-18",
-    "end": "2026-02-18",
+    "start": "2026-02-19",
+    "end": "2026-02-19",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.12\nTestNet upgrades to Splice 0.5.11\nMainNet upgrades to Splice 0.5.10",
-    "start": "2026-02-22",
-    "end": "2026-02-22",
-    "description": ""
-  },
-  {
-    "title": "Daml versions from Splice 0.5.9 effective on MainNet (CIP-0073 and CIP-0096 support for Minting Delegation)\nDaml Versions from 0.5.11 effective on DevNet (App Marker Efficiency Improvements)",
     "start": "2026-02-23",
     "end": "2026-02-23",
     "description": ""
   },
   {
+    "title": "Daml versions from Splice 0.5.9 effective on MainNet (CIP-0073 and CIP-0096 support for Minting Delegation)\nDaml Versions from 0.5.11 effective on DevNet (App Marker Efficiency Improvements)",
+    "start": "2026-02-24",
+    "end": "2026-02-24",
+    "description": ""
+  },
+  {
     "title": "Cut Splice release 0.5.13",
-    "start": "2026-02-25",
-    "end": "2026-02-25",
+    "start": "2026-02-26",
+    "end": "2026-02-26",
     "description": ""
   },
   {
     "title": "Daml Versions from 0.5.11 effective on TestNet (App Marker Efficiency Improvements)",
+    "start": "2026-03-03",
+    "end": "2026-03-03",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.13\nTestNet upgrades to Splice 0.5.12\nMainNet upgrades to Splice 0.5.11 (Free confirmation responses go live on MainNet)",
     "start": "2026-03-02",
     "end": "2026-03-02",
     "description": ""
   },
   {
-    "title": "DevNet upgrades to Splice 0.5.13\nTestNet upgrades to Splice 0.5.12\nMainNet upgrades to Splice 0.5.11 (Free confirmation responses go live on MainNet)",
-    "start": "2026-03-01",
-    "end": "2026-03-01",
-    "description": ""
-  },
-  {
     "title": "Cut Splice release 0.5.14",
-    "start": "2026-03-04",
-    "end": "2026-03-04",
+    "start": "2026-03-05",
+    "end": "2026-03-05",
     "description": ""
   },
   {
     "title": "Daml Versions from 0.5.11 effective on MainNet (App Marker Efficiency Improvements) postponed due to an issue in the SV app for converting featured app activity markers",
+    "start": "2026-03-10",
+    "end": "2026-03-10",
+    "description": ""
+  },
+  {
+    "title": "DevNet upgrades to Splice 0.5.14\nTestNet upgrades to Splice 0.5.13\nMainNet upgrades to Splice 0.5.12",
     "start": "2026-03-09",
     "end": "2026-03-09",
     "description": ""
   },
   {
-    "title": "DevNet upgrades to Splice 0.5.14\nTestNet upgrades to Splice 0.5.13\nMainNet upgrades to Splice 0.5.12",
-    "start": "2026-03-08",
-    "end": "2026-03-08",
-    "description": ""
-  },
-  {
     "title": "Cut Splice release 0.5.15",
-    "start": "2026-03-11",
-    "end": "2026-03-11",
+    "start": "2026-03-12",
+    "end": "2026-03-12",
     "description": ""
   },
   {
     "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on DevNet",
-    "start": "2026-03-15",
-    "end": "2026-03-15",
+    "start": "2026-03-16",
+    "end": "2026-03-16",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.15\nTestNet upgrades to Splice 0.5.14\nMainNet upgrades to Splice 0.5.13",
-    "start": "2026-03-15",
-    "end": "2026-03-15",
+    "start": "2026-03-16",
+    "end": "2026-03-16",
     "description": ""
   },
   {
     "title": "Cut Splice release 0.5.16",
-    "start": "2026-03-18",
-    "end": "2026-03-18",
+    "start": "2026-03-19",
+    "end": "2026-03-19",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.16\nTestNet upgrades to Splice 0.5.15\nMainNet upgrades to Splice 0.5.14",
-    "start": "2026-03-22",
-    "end": "2026-03-22",
+    "start": "2026-03-23",
+    "end": "2026-03-23",
     "description": ""
   },
   {
     "title": "Cut Splice release 0.5.17",
-    "start": "2026-03-25",
-    "end": "2026-03-25",
+    "start": "2026-03-26",
+    "end": "2026-03-26",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.17\nTestNet upgrades to Splice 0.5.16\nMainNet upgrades to Splice 0.5.15",
-    "start": "2026-03-29",
-    "end": "2026-03-29",
-    "description": ""
-  },
-  {
-    "title": "Daml Versions from Splice 0.5.11 effective on MainNet.\n\n\nDaml Model versions that will become effective: amulet 0.1.16\namuletNameService 0.1.17\ndsoGovernance 0.1.22\nvalidatorLifecycle 0.1.6\nwallet 0.1.17\nwalletPayments 0.1.16\r\nCIP that approved this (or none): none: Scalability improvement. \n\nFeatures enabled: add support for weighted featured app markers.",
     "start": "2026-03-30",
     "end": "2026-03-30",
     "description": ""
   },
   {
+    "title": "Daml Versions from Splice 0.5.11 effective on MainNet.\n\n\nDaml Model versions that will become effective: amulet 0.1.16\namuletNameService 0.1.17\ndsoGovernance 0.1.22\nvalidatorLifecycle 0.1.6\nwallet 0.1.17\nwalletPayments 0.1.16\r\nCIP that approved this (or none): none: Scalability improvement. \n\nFeatures enabled: add support for weighted featured app markers.",
+    "start": "2026-03-31",
+    "end": "2026-03-31",
+    "description": ""
+  },
+  {
     "title": "Cut Splice release 0.5.18 (last release on 0.5.x / Canton 3.4)",
-    "start": "2026-04-01",
-    "end": "2026-04-01",
+    "start": "2026-04-02",
+    "end": "2026-04-02",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.5.18\nTestNet upgrades to Splice 0.5.17\nMainNet upgrades to Splice 0.5.16",
-    "start": "2026-04-05",
-    "end": "2026-04-05",
+    "start": "2026-04-06",
+    "end": "2026-04-06",
     "description": ""
   },
   {
     "title": "(no planned splice release)",
-    "start": "2026-04-08",
-    "end": "2026-04-08",
+    "start": "2026-04-09",
+    "end": "2026-04-09",
     "description": ""
   },
   {
     "title": "DevNet remains on Splice 0.5.18\nTestNet upgrades to Splice 0.5.18\nMainNet upgrades to Splice 0.5.17",
-    "start": "2026-04-12",
-    "end": "2026-04-12",
-    "description": ""
-  },
-  {
-    "title": "Daml model versions from Splice 0.5.16 effective on DevNet\r\rDaml Model versions that will become effective: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nCIP that approved this (or none): CIP-0107\r\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
     "start": "2026-04-13",
     "end": "2026-04-13",
     "description": ""
   },
   {
-    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on MainNet",
+    "title": "Daml model versions from Splice 0.5.16 effective on DevNet\r\rDaml Model versions that will become effective: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nCIP that approved this (or none): CIP-0107\r\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
     "start": "2026-04-14",
     "end": "2026-04-14",
     "description": ""
   },
   {
-    "title": "(no planned splice release)",
+    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on MainNet",
     "start": "2026-04-15",
     "end": "2026-04-15",
     "description": ""
   },
   {
-    "title": "DevNet remains on Splice 0.5.18\nTestNet remains on Splice 0.5.18\nMainNet upgrades to Splice 0.5.18",
-    "start": "2026-04-19",
-    "end": "2026-04-19",
+    "title": "(no planned splice release)",
+    "start": "2026-04-16",
+    "end": "2026-04-16",
     "description": ""
   },
   {
-    "title": "Daml model versions from Splice 0.5.16 effective on TestNet\r\r\rDaml Model versions that will become effective: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nCIP that approved this (or none): CIP-0107\r\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
+    "title": "DevNet remains on Splice 0.5.18\nTestNet remains on Splice 0.5.18\nMainNet upgrades to Splice 0.5.18",
     "start": "2026-04-20",
     "end": "2026-04-20",
     "description": ""
   },
   {
-    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on TestNet",
-    "start": "2026-04-22",
-    "end": "2026-04-22",
+    "title": "Daml model versions from Splice 0.5.16 effective on TestNet\r\r\rDaml Model versions that will become effective: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nCIP that approved this (or none): CIP-0107\r\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
+    "start": "2026-04-21",
+    "end": "2026-04-21",
     "description": ""
   },
   {
-    "title": "Cut Splice release 0.6.0 (first one based on Canton 3.5)\n\nSplice 0.6.0 failed early DevNet  testing.",
+    "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on TestNet",
     "start": "2026-04-23",
     "end": "2026-04-23",
     "description": ""
   },
   {
-    "title": "Cut Splice release 0.6.1",
-    "start": "2026-04-26",
-    "end": "2026-04-26",
+    "title": "Cut Splice release 0.6.0 (first one based on Canton 3.5)\n\nSplice 0.6.0 failed early DevNet  testing.",
+    "start": "2026-04-24",
+    "end": "2026-04-24",
     "description": ""
   },
   {
-    "title": "DevNet upgrades to Splice 0.6.1\nTestNet remains on Splice 0.5.18\nMainNet remains on Splice 0.5.18",
+    "title": "Cut Splice release 0.6.1",
     "start": "2026-04-27",
     "end": "2026-04-27",
     "description": ""
   },
   {
+    "title": "DevNet upgrades to Splice 0.6.1\nTestNet remains on Splice 0.5.18\nMainNet remains on Splice 0.5.18",
+    "start": "2026-04-28",
+    "end": "2026-04-28",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.2",
-    "start": "2026-04-29",
-    "end": "2026-04-29",
+    "start": "2026-04-30",
+    "end": "2026-04-30",
     "description": ""
   },
   {
     "title": "Validator Liveness Rewards go to zero",
-    "start": "2026-04-29",
-    "end": "2026-04-29",
+    "start": "2026-04-30",
+    "end": "2026-04-30",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.6.2\nTestNet remains on 0.5.18\nMainNet remains on Splice 0.5.18",
-    "start": "2026-05-03",
-    "end": "2026-05-03",
-    "description": ""
-  },
-  {
-    "title": "Daml model versions from Splice 0.5.16 effective on MainNet\r\rDaml Model versions that will become effective: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nCIP that approved this (or none): CIP-0107\r\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
     "start": "2026-05-04",
     "end": "2026-05-04",
     "description": ""
   },
   {
+    "title": "Daml model versions from Splice 0.5.16 effective on MainNet\r\rDaml Model versions that will become effective: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nCIP that approved this (or none): CIP-0107\r\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.3",
-    "start": "2026-05-06",
-    "end": "2026-05-06",
+    "start": "2026-05-07",
+    "end": "2026-05-07",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.6.3\nTestNet upgrades to Splice 0.6.2\nMainNet remains on Splice 0.5.18",
-    "start": "2026-05-10",
-    "end": "2026-05-10",
+    "start": "2026-05-11",
+    "end": "2026-05-11",
     "description": ""
   },
   {
     "title": "Minimum Versions\n\nSplice:\nDevNet: 0.5.16\rTestNet: 0.5.16\nMainNet: 0.5.16",
-    "start": "2026-05-11",
-    "end": "2026-05-11",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
     "description": ""
   },
   {
     "title": "Cut splice release 0.6.4",
-    "start": "2026-05-13",
-    "end": "2026-05-13",
+    "start": "2026-05-14",
+    "end": "2026-05-14",
     "description": ""
   },
   {
     "title": "Splice .dars: \nDevNet: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\nTestNet: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
-    "start": "2026-05-11",
-    "end": "2026-05-11",
+    "start": "2026-05-12",
+    "end": "2026-05-12",
     "description": ""
   },
   {
     "title": "SVs confirm LSU deployment automation in place and tested",
-    "start": "2026-05-17",
-    "end": "2026-05-17",
+    "start": "2026-05-18",
+    "end": "2026-05-18",
     "description": ""
   },
   {
     "title": "Daml models from 0.6.1 effective on DevNet (required to vote on LSU:  CIP-0117)",
-    "start": "2026-05-18",
-    "end": "2026-05-18",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.6.4\nTestNet upgrades to Splice 0.6.3\nMainNet upgrades to Splice 0.6.2",
-    "start": "2026-05-17",
-    "end": "2026-05-17",
-    "description": ""
-  },
-  {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.2\rTestNet: 0.5.16\nMainNet: 0.5.16\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
     "start": "2026-05-18",
     "end": "2026-05-18",
     "description": ""
   },
   {
+    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.2\rTestNet: 0.5.16\nMainNet: 0.5.16\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\r\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
+    "start": "2026-05-19",
+    "end": "2026-05-19",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.5",
-    "start": "2026-05-21",
-    "end": "2026-05-21",
+    "start": "2026-05-22",
+    "end": "2026-05-22",
     "description": ""
   },
   {
     "title": "Daml models from 0.6.1 effective on TestNet (required to vote on LSU: CIP- 0117)",
-    "start": "2026-05-25",
-    "end": "2026-05-25",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.6.5\nTestNet upgrades to Splice 0.6.4\nMainNet upgrades to Splice 0.6.3",
-    "start": "2026-05-24",
-    "end": "2026-05-24",
-    "description": ""
-  },
-  {
-    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.2\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-05-25",
     "end": "2026-05-25",
     "description": ""
   },
   {
-    "title": "Cut splice release 0.6.6",
-    "start": "2026-05-27",
-    "end": "2026-05-27",
+    "title": "Minimum Versions\n\nSplice:\nDevNet: 0.6.2\rTestNet: 0.6.2\nMainNet: 0.5.16",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
     "description": ""
   },
   {
-    "title": "Confirm timing of traffic-based app rewards with DA and Obsidian",
+    "title": "Cut splice release 0.6.6",
     "start": "2026-05-28",
     "end": "2026-05-28",
     "description": ""
   },
   {
+    "title": "Confirm timing of traffic-based app rewards with DA and Obsidian",
+    "start": "2026-05-29",
+    "end": "2026-05-29",
+    "description": ""
+  },
+  {
     "title": "Splice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
-    "start": "2026-05-25",
-    "end": "2026-05-25",
+    "start": "2026-05-26",
+    "end": "2026-05-26",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.6.6\nTestNet upgrades to Splice 0.6.5\nMainNet upgrades to Splice 0.6.4\n\nset up synchronizer nodes for the practice LSU",
-    "start": "2026-05-31",
-    "end": "2026-05-31",
-    "description": ""
-  },
-  {
-    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-06-01",
     "end": "2026-06-01",
     "description": ""
   },
   {
-    "title": "DevNet LSU practice pv34->pv34,\nvalidators must upgrade to >= 0.6.5 before the LSU",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
     "start": "2026-06-02",
     "end": "2026-06-02",
     "description": ""
   },
   {
-    "title": "Cut splice release 0.6.7",
+    "title": "DevNet LSU practice pv34->pv34,\nvalidators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-03",
     "end": "2026-06-03",
     "description": ""
   },
   {
+    "title": "Cut splice release 0.6.7",
+    "start": "2026-06-04",
+    "end": "2026-06-04",
+    "description": ""
+  },
+  {
     "title": "Splice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
-    "start": "2026-06-01",
-    "end": "2026-06-01",
+    "start": "2026-06-02",
+    "end": "2026-06-02",
     "description": ""
   },
   {
     "title": "Daml models from 0.6.1 effective on MainNet (required to vote on LSU: CIP-0117)",
-    "start": "2026-06-08",
-    "end": "2026-06-08",
-    "description": ""
-  },
-  {
-    "title": "DevNet upgrades to Splice 0.6.7\nTestNet upgrades to Splice 0.6.6\nMainNet upgrades to Splice 0.6.5",
-    "start": "2026-06-07",
-    "end": "2026-06-07",
-    "description": ""
-  },
-  {
-    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
-    "start": "2026-06-08",
-    "end": "2026-06-08",
-    "description": ""
-  },
-  {
-    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
     "start": "2026-06-09",
     "end": "2026-06-09",
     "description": ""
   },
   {
-    "title": "Cut splice release 0.6.8",
-    "start": "2026-06-10",
-    "end": "2026-06-10",
-    "description": ""
-  },
-  {
-    "title": "Splice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "title": "DevNet upgrades to Splice 0.6.7\nTestNet upgrades to Splice 0.6.6\nMainNet upgrades to Splice 0.6.5",
     "start": "2026-06-08",
     "end": "2026-06-08",
     "description": ""
   },
   {
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
+    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "start": "2026-06-10",
+    "end": "2026-06-10",
+    "description": ""
+  },
+  {
+    "title": "Cut splice release 0.6.8",
+    "start": "2026-06-11",
+    "end": "2026-06-11",
+    "description": ""
+  },
+  {
+    "title": "Splice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.9",
-    "start": "2026-06-17",
-    "end": "2026-06-17",
+    "start": "2026-06-18",
+    "end": "2026-06-18",
     "description": ""
   },
   {
     "title": "DevNet upgrades to Splice 0.6.8\nTestNet upgrades to Splice 0.6.7\nMainNet upgrades to Splice 0.6.6",
-    "start": "2026-06-14",
-    "end": "2026-06-14",
-    "description": ""
-  },
-  {
-    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "start": "2026-06-15",
     "end": "2026-06-15",
     "description": ""
   },
   {
-    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\n\r*******",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "start": "2026-06-16",
     "end": "2026-06-16",
     "description": ""
   },
   {
-    "title": "Date to be determined based on final discussion among SVs: MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\n\r*******",
     "start": "2026-06-17",
     "end": "2026-06-17",
     "description": ""
   },
   {
+    "title": "Date to be determined based on final discussion among SVs: MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
+    "start": "2026-06-18",
+    "end": "2026-06-18",
+    "description": ""
+  },
+  {
     "title": "Deprecated Scan API endpoints removed from Splice on DevNet",
-    "start": "2026-07-12",
-    "end": "2026-07-12",
+    "start": "2026-07-13",
+    "end": "2026-07-13",
     "description": ""
   },
   {
     "title": "Deprecated Scan API endpoints removed from Splice on TestNet",
-    "start": "2026-07-19",
-    "end": "2026-07-19",
+    "start": "2026-07-20",
+    "end": "2026-07-20",
     "description": ""
   },
   {
     "title": "Deprecated Scan API endpoints removed from Splice on MainNet",
-    "start": "2026-07-26",
-    "end": "2026-07-26",
+    "start": "2026-07-27",
+    "end": "2026-07-27",
     "description": ""
   }
 ]
