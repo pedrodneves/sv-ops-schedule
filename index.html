@@ -119,12 +119,13 @@
       margin: 24px 0;
     }
 
-    .weekdays {
-      display: grid;
-      grid-template-columns: repeat(7, 1fr);
-      gap: 10px;
-      margin-bottom: 10px;
-    }
+.weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+}
 
     .weekday {
       color: var(--yellow);
@@ -134,15 +135,12 @@
       letter-spacing: 0.08em;
     }
 
-    .calendar {
-      display: grid;
-      grid-template-columns: repeat(7, minmax(220px, 1fr));
-      gap: 12px;
-      overflow-x: auto;
-    }
-     .calendar-wrapper {
-      overflow-x: auto;
-    }
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 10px;
+  width: 100%;
+}
 
     .day {
       height: 240px;
@@ -320,9 +318,7 @@
       <div class="weekday">SUN</div>
     </div>
 
-     <div class="calendar-wrapper">
-      <main class="calendar" id="calendar"></main>
-    </div>
+<main class="calendar" id="calendar"></main>
 
     <div class="meta">
       <div id="updated">↻ Loading schedule...</div>
