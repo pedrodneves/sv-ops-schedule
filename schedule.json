@@ -1092,6 +1092,18 @@
     "description": ""
   },
   {
+    "title": "MainNet: create vote to enable Splice 0.6.7 models",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": ""
+  },
+  {
+    "title": "MainNet: create vote to change AmuletConfig.rewardConfig to enable dry-running for traffic-based app rewards",
+    "start": "2026-06-24",
+    "end": "2026-06-24",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.10",
     "start": "2026-06-25",
     "end": "2026-06-25",
@@ -1107,6 +1119,18 @@
     "title": "DevNet upgrades to Splice 0.6.10\nTestNet upgrades to Splice 0.6.9\nMainNet upgrades to Splice 0.6.8",
     "start": "2026-06-29",
     "end": "2026-06-29",
+    "description": ""
+  },
+  {
+    "title": "MainNet: Daml models from Splice 0.6.7 voted into effect on \n\nSplice:\nDevNet: 0.6.7\rTestNet: 0.6.7\nMainNet: 0.6.7\n\nSplice .dars: \nDevNet: \namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\n\nTestNet: \namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\n\rMainNet:\ramulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
+    "start": "2026-06-30",
+    "end": "2026-06-30",
+    "description": ""
+  },
+  {
+    "title": "MainNet: dry-run of traffic-based app rewards enabled",
+    "start": "2026-07-01",
+    "end": "2026-07-01",
     "description": ""
   },
   {
@@ -1152,9 +1176,21 @@
     "description": ""
   },
   {
+    "title": "MainNet: create vote to change AmuletConfig.rewardConfig to disable dry-running and switch to traffic-based app rewards",
+    "start": "2026-07-22",
+    "end": "2026-07-22",
+    "description": ""
+  },
+  {
     "title": "DevNet upgrades to Splice 0.6.14\nTestNet upgrades to Splice 0.6.13\nMainNet upgrades to Splice 0.6.12",
     "start": "2026-07-27",
     "end": "2026-07-27",
+    "description": ""
+  },
+  {
+    "title": "MainNet: switch to traffic-based app rewards",
+    "start": "2026-07-29",
+    "end": "2026-07-29",
     "description": ""
   },
   {
