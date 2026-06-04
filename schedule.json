@@ -1038,7 +1038,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
+    "title": "DevNet Topology Freeze 9am\n\nMinimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
     "start": "2026-06-09",
     "end": "2026-06-09",
     "description": ""
@@ -1062,6 +1062,12 @@
     "description": ""
   },
   {
+    "title": "TestNet Topology Freeze 9am",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.9",
     "start": "2026-06-18",
     "end": "2026-06-18",
@@ -1074,7 +1080,7 @@
     "description": ""
   },
   {
-    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
+    "title": "Minimum Versions for Validators\n\nSplice:\nDevNet: 0.6.5\nTestNet: 0.6.5\nMainNet: 0.6.5\n\nSplice .dars: \nDevNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\nTestNet: \namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\n\rMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "start": "2026-06-16",
     "end": "2026-06-16",
     "description": ""
@@ -1110,9 +1116,15 @@
     "description": ""
   },
   {
-    "title": "9 am US Eastern / 1300 UTC: \n\nMainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU \r\rTopology freeze starts June 27th, 24 hours before LSU",
-    "start": "2026-06-28",
-    "end": "2026-06-28",
+    "title": "MainNet Topology Freeze 9am",
+    "start": "2026-06-26",
+    "end": "2026-06-26",
+    "description": ""
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC: \n\nMainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU \r\rTopology freeze starts June 26th, 24 hours before LSU",
+    "start": "2026-06-27",
+    "end": "2026-06-27",
     "description": ""
   },
   {
@@ -1122,7 +1134,7 @@
     "description": ""
   },
   {
-    "title": "MainNet: Daml models from Splice 0.6.7 voted into effect on \n\nSplice:\nDevNet: 0.6.7\rTestNet: 0.6.7\nMainNet: 0.6.7\n\nSplice .dars: \nDevNet: \namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\n\nTestNet: \namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\n\rMainNet:\ramulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
+    "title": "MainNet: Daml models from Splice 0.6.7 voted into effect on \n\nSplice:\nDevNet: 0.6.7\nTestNet: 0.6.7\nMainNet: 0.6.7\n\nSplice .dars: \nDevNet: \namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\n\nTestNet: \namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\n\rMainNet:\ramulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
     "start": "2026-06-30",
     "end": "2026-06-30",
     "description": ""
