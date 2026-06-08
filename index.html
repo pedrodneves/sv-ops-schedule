@@ -266,10 +266,6 @@
     margin-bottom: 10px;
   }
 
-  .day-number::before {
-    content: "Day ";
-  }
-
   .event {
     font-size: 14px;
     line-height: 1.45;
@@ -396,7 +392,15 @@
           day.classList.add('today');
         }
 
-        day.innerHTML = `<div class="day-number">${dayDate.getDate()}</div>`;
+        const dayLabel = window.innerWidth <= 700
+  ? dayDate.toLocaleDateString('en-US', {
+      weekday: 'long',
+      month: 'long',
+      day: 'numeric'
+    })
+  : dayDate.getDate();
+
+day.innerHTML = `<div class="day-number">${dayLabel}</div>`;
 
         dayEvents.forEach(event => {
           const eventDiv = document.createElement('div');
