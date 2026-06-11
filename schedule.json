@@ -1974,6 +1974,12 @@
     "description": ""
   },
   {
+    "title": "DevNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.9",
     "start": "2026-06-18",
     "end": "2026-06-18",
@@ -1998,7 +2004,7 @@
     "description": ""
   },
   {
-    "title": "DevNet: 0.6.5",
+    "title": "DevNet: 0.6.7",
     "start": "2026-06-16",
     "end": "2026-06-16",
     "description": ""
@@ -2019,13 +2025,13 @@
     "title": "DevNet:",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24"
+    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18"
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19"
   },
   {
     "title": "TestNet:",
@@ -2082,15 +2088,15 @@
     "description": ""
   },
   {
-    "title": "MainNet: create vote to enable Splice 0.6.7 models",
+    "title": "DevNet: Dry-run of traffic-based app rewards begins",
     "start": "2026-06-23",
     "end": "2026-06-23",
     "description": ""
   },
   {
-    "title": "MainNet: create vote to change AmuletConfig.rewardConfig to enable dry-running for traffic-based app rewards",
-    "start": "2026-06-24",
-    "end": "2026-06-24",
+    "title": "TestNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
     "description": ""
   },
   {
@@ -2118,6 +2124,60 @@
     "description": ""
   },
   {
+    "title": "DevNet: 0.6.7",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.7",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.5",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "Splice .dars:"
+  },
+  {
+    "title": "DevNet:",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25"
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19"
+  },
+  {
+    "title": "TestNet:",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25"
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19"
+  },
+  {
+    "title": "MainNet:\ramulet 0.1.18",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "amuletNameService 0.1.19\ndsoGovernance 0.1.24"
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18"
+  },
+  {
     "title": "DevNet upgrades to Splice 0.6.10",
     "start": "2026-06-29",
     "end": "2026-06-29",
@@ -2136,10 +2196,16 @@
     "description": ""
   },
   {
-    "title": "MainNet: Daml models from Splice 0.6.7 voted into effect on",
+    "title": "TestNet: Dry-run of traffic-based app rewards begins",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "Splice:"
+    "description": ""
+  },
+  {
+    "title": "MainNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "start": "2026-06-30",
+    "end": "2026-06-30",
+    "description": "Minimum Versions for Validators\nSplice:"
   },
   {
     "title": "DevNet: 0.6.7",
@@ -2196,12 +2262,6 @@
     "description": "wallet 0.1.20\nwalletPayments 0.1.19"
   },
   {
-    "title": "MainNet: dry-run of traffic-based app rewards enabled",
-    "start": "2026-07-01",
-    "end": "2026-07-01",
-    "description": ""
-  },
-  {
     "title": "Cut splice release 0.6.11",
     "start": "2026-07-02",
     "end": "2026-07-02",
@@ -2214,15 +2274,45 @@
     "description": ""
   },
   {
-    "title": "TestNet upgrades to Splice 0.6.9",
+    "title": "TestNet upgrades to Splice 0.6.10",
     "start": "2026-07-06",
     "end": "2026-07-06",
     "description": ""
   },
   {
-    "title": "MainNet upgrades to Splice 0.6.8",
+    "title": "MainNet upgrades to Splice 0.6.9",
     "start": "2026-07-06",
     "end": "2026-07-06",
+    "description": ""
+  },
+  {
+    "title": "DevNet: Traffic-based app rewards (CIP-104) goes live",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": ""
+  },
+  {
+    "title": "MainNet: Dry-run of traffic-based app rewards begins",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": "Minimum Versions for Validators\nSplice:"
+  },
+  {
+    "title": "DevNet: 0.6.9 (TBD)",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.7",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.7",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
     "description": ""
   },
   {
@@ -2256,6 +2346,30 @@
     "description": ""
   },
   {
+    "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": "Minimum Versions for Validators\nSplice:"
+  },
+  {
+    "title": "DevNet: 0.6.9 (TBD)",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.9 (TBD)",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.7",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": ""
+  },
+  {
     "title": "Cut splice release 0.6.14",
     "start": "2026-07-23",
     "end": "2026-07-23",
@@ -2280,12 +2394,6 @@
     "description": ""
   },
   {
-    "title": "MainNet: create vote to change AmuletConfig.rewardConfig to disable dry-running and switch to traffic-based app rewards",
-    "start": "2026-07-22",
-    "end": "2026-07-22",
-    "description": ""
-  },
-  {
     "title": "DevNet upgrades to Splice 0.6.14",
     "start": "2026-07-27",
     "end": "2026-07-27",
@@ -2304,9 +2412,27 @@
     "description": ""
   },
   {
-    "title": "MainNet: switch to traffic-based app rewards",
-    "start": "2026-07-29",
-    "end": "2026-07-29",
+    "title": "MainNet: Traffic-based app rewards (CIP-104) goes live",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "description": "Minimum Versions for Validators\nSplice:"
+  },
+  {
+    "title": "DevNet: 0.6.9 (TBD)",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.9 (TBD)",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.9 (TBD)",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
     "description": ""
   },
   {
