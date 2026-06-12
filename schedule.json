@@ -2001,25 +2001,25 @@
     "title": "MainNet upgrades to Splice 0.6.6",
     "start": "2026-06-15",
     "end": "2026-06-15",
-    "description": ""
+    "description": "Minimum Splice Versions for Validators"
   },
   {
     "title": "DevNet: 0.6.7",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
+    "start": "2026-06-15",
+    "end": "2026-06-15",
     "description": ""
   },
   {
     "title": "TestNet: 0.6.5",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
+    "start": "2026-06-15",
+    "end": "2026-06-15",
     "description": ""
   },
   {
     "title": "MainNet: 0.6.5",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "Splice .dars:"
+    "start": "2026-06-15",
+    "end": "2026-06-15",
+    "description": ""
   },
   {
     "title": "DevNet:",
@@ -2085,6 +2085,24 @@
     "title": "MainNet upgrades to Splice 0.6.7",
     "start": "2026-06-22",
     "end": "2026-06-22",
+    "description": "Minimum Splice Versions for Validators"
+  },
+  {
+    "title": "DevNet: 0.6.7",
+    "start": "2026-06-22",
+    "end": "2026-06-22",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.7",
+    "start": "2026-06-22",
+    "end": "2026-06-22",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.5",
+    "start": "2026-06-22",
+    "end": "2026-06-22",
     "description": ""
   },
   {
@@ -2122,24 +2140,6 @@
     "start": "2026-06-27",
     "end": "2026-06-27",
     "description": ""
-  },
-  {
-    "title": "DevNet: 0.6.7",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": ""
-  },
-  {
-    "title": "TestNet: 0.6.7",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": ""
-  },
-  {
-    "title": "MainNet: 0.6.5",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "Splice .dars:"
   },
   {
     "title": "DevNet:",
@@ -2193,6 +2193,24 @@
     "title": "MainNet upgrades to Splice 0.6.8",
     "start": "2026-06-29",
     "end": "2026-06-29",
+    "description": "Minimum Splice Versions for Validators"
+  },
+  {
+    "title": "DevNet: 0.6.7",
+    "start": "2026-06-29",
+    "end": "2026-06-29",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.7",
+    "start": "2026-06-29",
+    "end": "2026-06-29",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.7",
+    "start": "2026-06-29",
+    "end": "2026-06-29",
     "description": ""
   },
   {
@@ -2205,25 +2223,7 @@
     "title": "MainNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "Minimum Versions for Validators\nSplice:"
-  },
-  {
-    "title": "DevNet: 0.6.7",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": ""
-  },
-  {
-    "title": "TestNet: 0.6.7",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": ""
-  },
-  {
-    "title": "MainNet: 0.6.7",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "Splice .dars:"
+    "description": "Minimum Splice.dar Versions"
   },
   {
     "title": "DevNet:",
@@ -2283,6 +2283,24 @@
     "title": "MainNet upgrades to Splice 0.6.9",
     "start": "2026-07-06",
     "end": "2026-07-06",
+    "description": "Minimum Splice Versions for Validators"
+  },
+  {
+    "title": "DevNet: 0.6.9 (To Be Confirmed)",
+    "start": "2026-07-06",
+    "end": "2026-07-06",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.7",
+    "start": "2026-07-06",
+    "end": "2026-07-06",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.7",
+    "start": "2026-07-06",
+    "end": "2026-07-06",
     "description": ""
   },
   {
@@ -2292,27 +2310,27 @@
     "description": ""
   },
   {
+    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": ""
+  },
+  {
     "title": "MainNet: Dry-run of traffic-based app rewards begins",
     "start": "2026-07-07",
     "end": "2026-07-07",
-    "description": "Minimum Versions for Validators\nSplice:"
-  },
-  {
-    "title": "DevNet: 0.6.9 (TBD)",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
     "description": ""
   },
   {
-    "title": "TestNet: 0.6.7",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-07-08",
+    "end": "2026-07-08",
     "description": ""
   },
   {
-    "title": "MainNet: 0.6.7",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
+    "title": "DevNet: LSU to adopt CantonBFT-based synchronizers. \r\rTopology freeze starts July 7th, 24 hours before LSU",
+    "start": "2026-07-08",
+    "end": "2026-07-08",
     "description": ""
   },
   {
@@ -2349,24 +2367,24 @@
     "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
     "start": "2026-07-21",
     "end": "2026-07-21",
-    "description": "Minimum Versions for Validators\nSplice:"
+    "description": ""
   },
   {
-    "title": "DevNet: 0.6.9 (TBD)",
+    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
     "start": "2026-07-21",
     "end": "2026-07-21",
     "description": ""
   },
   {
-    "title": "TestNet: 0.6.9 (TBD)",
-    "start": "2026-07-21",
-    "end": "2026-07-21",
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-07-22",
+    "end": "2026-07-22",
     "description": ""
   },
   {
-    "title": "MainNet: 0.6.7",
-    "start": "2026-07-21",
-    "end": "2026-07-21",
+    "title": "TestNet: LSU to adopt CantonBFT-based synchronizers. \r\rTopology freeze starts July 21st, 24 hours before LSU",
+    "start": "2026-07-22",
+    "end": "2026-07-22",
     "description": ""
   },
   {
@@ -2391,6 +2409,24 @@
     "title": "MainNet upgrades to Splice 0.6.11",
     "start": "2026-07-20",
     "end": "2026-07-20",
+    "description": "Minimum Splice Versions for Validators"
+  },
+  {
+    "title": "DevNet: 0.6.9 (To Be Confirmed)",
+    "start": "2026-07-20",
+    "end": "2026-07-20",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.9 (To Be Confirmed)",
+    "start": "2026-07-20",
+    "end": "2026-07-20",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.7",
+    "start": "2026-07-20",
+    "end": "2026-07-20",
     "description": ""
   },
   {
@@ -2412,25 +2448,7 @@
     "description": ""
   },
   {
-    "title": "MainNet: Traffic-based app rewards (CIP-104) goes live",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": "Minimum Versions for Validators\nSplice:"
-  },
-  {
-    "title": "DevNet: 0.6.9 (TBD)",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": ""
-  },
-  {
-    "title": "TestNet: 0.6.9 (TBD)",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": ""
-  },
-  {
-    "title": "MainNet: 0.6.9 (TBD)",
+    "title": "MainNet: Traffic-based app rewards (CIP-104) go live",
     "start": "2026-07-28",
     "end": "2026-07-28",
     "description": ""
@@ -2439,6 +2457,42 @@
     "title": "Cut splice release 0.6.15",
     "start": "2026-07-30",
     "end": "2026-07-30",
+    "description": ""
+  },
+  {
+    "title": "DevNet: 0.6.9 (To Be Confirmed)",
+    "start": "2026-07-27",
+    "end": "2026-07-27",
+    "description": ""
+  },
+  {
+    "title": "TestNet: 0.6.9 (To Be Confirmed)",
+    "start": "2026-07-27",
+    "end": "2026-07-27",
+    "description": ""
+  },
+  {
+    "title": "MainNet: 0.6.9 (To Be Confirmed)",
+    "start": "2026-07-27",
+    "end": "2026-07-27",
+    "description": ""
+  },
+  {
+    "title": "MainNet Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-08-07",
+    "end": "2026-08-07",
+    "description": ""
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "description": ""
+  },
+  {
+    "title": "MainNet LSU to adopt CantonBFT-based synchronizers\r\rTopology freeze starts August 7th, 24 hours before LSU",
+    "start": "2026-08-08",
+    "end": "2026-08-08",
     "description": ""
   },
   {
