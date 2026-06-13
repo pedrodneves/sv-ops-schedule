@@ -2494,23 +2494,5 @@
     "start": "2026-08-08",
     "end": "2026-08-08",
     "description": ""
-  },
-  {
-    "title": "DevNet upgrades to Splice 0.6.14",
-    "start": "2026-12-31",
-    "end": "2026-12-31",
-    "description": ""
-  },
-  {
-    "title": "TestNet upgrades to Splice 0.6.13",
-    "start": "2026-12-31",
-    "end": "2026-12-31",
-    "description": ""
-  },
-  {
-    "title": "MainNet upgrades to Splice 0.6.12",
-    "start": "2026-12-31",
-    "end": "2026-12-31",
-    "description": ""
   }
 ]
