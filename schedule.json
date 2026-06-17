@@ -756,18 +756,11 @@
     "category": "general"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "DevNet Validator nodes upgrade to Splice 0.4.21",
     "start": "2025-10-20",
     "end": "2025-10-20",
-    "description": "DevNet Validator nodes upgrade to Splice 0.4.21\nTestNet Validator nodes upgrade to Splice 0.4.20",
+    "description": "TestNet Validator nodes upgrade to Splice 0.4.20\nMainNet Validator nodes upgrade to 0.4.19",
     "category": "weekly-upgrade"
-  },
-  {
-    "title": "MainNet Validator nodes upgrade to 0.4.19",
-    "start": "2025-10-20",
-    "end": "2025-10-20",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "Daml versions originally packaged with 0.4.18 effective on TestNet (CIP-0079)",
@@ -784,46 +777,39 @@
     "category": "general"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "DevNet SV nodes remain on Splice 0.4.21",
     "start": "2025-10-20",
     "end": "2025-10-20",
-    "description": "DevNet SV nodes remain on Splice 0.4.21\nTestNet SV nodes remain on Splice 0.4.20\nMainNet SV nodes upgrade to Splice 0.4.20",
-    "category": "weekly-upgrade"
+    "description": "TestNet SV nodes remain on Splice 0.4.20\nMainNet SV nodes upgrade to Splice 0.4.20",
+    "category": "general"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "DevNet SV nodes (not Validators) upgrade to Splice 0.4.22",
     "start": "2025-10-22",
     "end": "2025-10-22",
-    "description": "DevNet SV nodes (not Validators) upgrade to Splice 0.4.22",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "TestNet SV nodes (not Validators) upgrade from Splice 0.4.20 -> 0.4.22",
     "start": "2025-10-23",
     "end": "2025-10-23",
-    "description": "TestNet SV nodes (not Validators) upgrade from Splice 0.4.20 -> 0.4.22",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-10-24",
-    "end": "2025-10-24",
-    "description": "MainNet SV nodes (not Validators) upgrade from Splice 0.4.20 -> 0.4.22",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-10-27",
-    "end": "2025-10-27",
-    "description": "DevNet Validators upgrade to Splice 0.4.22\nTestNet Validators upgrade to Splice 0.4.21\nMainNet Validators upgrade to Splice 0.4.20\nDevNet SV nodes remain on Splice 0.4.22\nTestNet SV nodes remain on Splice 0.4.22",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "MainNet SV nodes remain on 0.4.22",
-    "start": "2025-10-27",
-    "end": "2025-10-27",
     "description": "",
     "category": "general"
+  },
+  {
+    "title": "MainNet SV nodes (not Validators) upgrade from Splice 0.4.20 -> 0.4.22",
+    "start": "2025-10-24",
+    "end": "2025-10-24",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "DevNet Validators upgrade to Splice 0.4.22",
+    "start": "2025-10-27",
+    "end": "2025-10-27",
+    "description": "TestNet Validators upgrade to Splice 0.4.21\nMainNet Validators upgrade to Splice 0.4.20\nDevNet SV nodes remain on Splice 0.4.22\nTestNet SV nodes remain on Splice 0.4.22\nMainNet SV nodes remain on 0.4.22",
+    "category": "weekly-upgrade"
   },
   {
     "title": "Daml versions originally packaged with 0.4.18 effective on MainNet (CIP-0079)",
@@ -833,52 +819,24 @@
     "category": "minimum-version"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "DevNet Validators upgrade to Splice 0.4.23",
     "start": "2025-11-03",
     "end": "2025-11-03",
-    "description": "DevNet Validators upgrade to Splice 0.4.23\nTestNet Validators upgrade to Splice 0.4.22\nMainNet Validators upgrade to Splice 0.4.21\nDevNet SV nodes upgrade to Splice 0.4.23\nTestNet SV nodes remain on Splice 0.4.22",
+    "description": "TestNet Validators upgrade to Splice 0.4.22\nMainNet Validators upgrade to Splice 0.4.21\nDevNet SV nodes upgrade to Splice 0.4.23\nTestNet SV nodes remain on Splice 0.4.22\nMainNet SV nodes remain on 0.4.22",
     "category": "weekly-upgrade"
   },
   {
-    "title": "MainNet SV nodes remain on 0.4.22",
-    "start": "2025-11-03",
-    "end": "2025-11-03",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
+    "title": "DevNet Major Upgrade to Splice 0.5.1 / Canton 3.4",
     "start": "2025-11-12",
     "end": "2025-11-12",
-    "description": "DevNet Major Upgrade to Splice 0.5.1 / Canton 3.4",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-11-10",
-    "end": "2025-11-10",
-    "description": "DevNet Validators remain on Splice 0.4.23\nTestNet Validators upgrade to Splice 0.4.23\nMainNet Validators upgrade to Splice 0.4.22\nDevNet SV nodes upgrade to Splice 0.4.25",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "DevNet SV nodes spin up staging nodes for the major upgrade.",
-    "start": "2025-11-10",
-    "end": "2025-11-10",
     "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-11-10",
-    "end": "2025-11-10",
-    "description": "TestNet SV nodes upgrade to Splice 0.4.25",
     "category": "weekly-upgrade"
   },
   {
-    "title": "MainNet SV nodes remain on 0.4.22",
+    "title": "DevNet Validators remain on Splice 0.4.23",
     "start": "2025-11-10",
     "end": "2025-11-10",
-    "description": "",
+    "description": "TestNet Validators upgrade to Splice 0.4.23\nMainNet Validators upgrade to Splice 0.4.22\nDevNet SV nodes upgrade to Splice 0.4.25\nDevNet SV nodes spin up staging nodes for the major upgrade.\nTestNet SV nodes upgrade to Splice 0.4.25\nMainNet SV nodes remain on 0.4.22",
     "category": "general"
   },
   {
@@ -892,8 +850,15 @@
     "title": "Weekly Splice Upgrade",
     "start": "2025-11-17",
     "end": "2025-11-17",
-    "description": "DevNet remains on Splice 0.5.1\nTestNet Validators remain on Splice 0.4.23\nMainNet Validators upgrade to Splice 0.4.23\nTestNet SV nodes remain on Splice 0.4.25\nMainNet SV Nodes upgrade to Splice 0.4.25",
+    "description": "DevNet remains on Splice 0.5.1",
     "category": "weekly-upgrade"
+  },
+  {
+    "title": "TestNet Validators remain on Splice 0.4.23",
+    "start": "2025-11-17",
+    "end": "2025-11-17",
+    "description": "MainNet Validators upgrade to Splice 0.4.23\nTestNet SV nodes remain on Splice 0.4.25\nMainNet SV Nodes upgrade to Splice 0.4.25",
+    "category": "general"
   },
   {
     "title": "Cut release 0.5.2",
@@ -910,39 +875,18 @@
     "category": "general"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "TestNet Major Upgrade on TestNet to Splice 0.5.1 / Canton 3.4",
     "start": "2025-11-26",
     "end": "2025-11-26",
-    "description": "TestNet Major Upgrade on TestNet to Splice 0.5.1 / Canton 3.4",
-    "category": "weekly-upgrade"
+    "description": "",
+    "category": "general"
   },
   {
     "title": "SVs and Validators deploy Splice 0.5.3 on DevNet (we skip 0.5.2)",
     "start": "2025-11-24",
     "end": "2025-11-24",
-    "description": "",
+    "description": "TestNet Validators remain on Splice 0.4.23\nMainNet Validators remain on Splice 0.4.23\nTestNet SV nodes remain on Splice 0.4.25\nTestNet SV Nodes spin up staging nodes for the major upgrade with downtime\nMainNet SV nodes remain on Splice 0.4.25",
     "category": "general"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-11-24",
-    "end": "2025-11-24",
-    "description": "TestNet Validators remain on Splice 0.4.23\nMainNet Validators remain on Splice 0.4.23\nTestNet SV nodes remain on Splice 0.4.25",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "TestNet SV Nodes spin up staging nodes for the major upgrade with downtime",
-    "start": "2025-11-24",
-    "end": "2025-11-24",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-11-24",
-    "end": "2025-11-24",
-    "description": "MainNet SV nodes remain on Splice 0.4.25",
-    "category": "weekly-upgrade"
   },
   {
     "title": "Facilitator: Digital-Asset-1",
@@ -962,8 +906,15 @@
     "title": "Weekly Splice Upgrade",
     "start": "2025-12-01",
     "end": "2025-12-01",
-    "description": "DevNet remains on Splice 0.5.3\nTestNet remains on Splice 0.5.1\nMainNet Validators remain on Splice 0.4.23\nMainNet SV nodes remain on Splice 0.4.25",
+    "description": "DevNet remains on Splice 0.5.3\nTestNet remains on Splice 0.5.1",
     "category": "weekly-upgrade"
+  },
+  {
+    "title": "MainNet Validators remain on Splice 0.4.23",
+    "start": "2025-12-01",
+    "end": "2025-12-01",
+    "description": "MainNet SV nodes remain on Splice 0.4.25",
+    "category": "general"
   },
   {
     "title": "(once release available) DevNet SVs upgrade to Splice 0.5.4",
@@ -983,36 +934,22 @@
     "title": "Weekly Splice Upgrade",
     "start": "2025-12-08",
     "end": "2025-12-08",
-    "description": "DevNet remains on Splice  0.5.4\nTestNet SVs upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "description": "DevNet remains on Splice  0.5.4",
     "category": "weekly-upgrade"
   },
   {
-    "title": "(once ? of SVs have upgraded) TestNet validators upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "title": "TestNet SVs upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
     "start": "2025-12-08",
     "end": "2025-12-08",
-    "description": "",
+    "description": "(once ? of SVs have upgraded) TestNet validators upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)\nMainNet Validators remain on Splice 0.4.23\nMainNet SV nodes remain on Splice 0.4.25\nMainNet SV nodes set up staging nodes for the major upgrade with downtime",
     "category": "weekly-upgrade"
   },
   {
-    "title": "Weekly Splice Upgrade",
-    "start": "2025-12-08",
-    "end": "2025-12-08",
-    "description": "MainNet Validators remain on Splice 0.4.23\nMainNet SV nodes remain on Splice 0.4.25",
-    "category": "weekly-upgrade"
-  },
-  {
-    "title": "MainNet SV nodes set up staging nodes for the major upgrade with downtime",
-    "start": "2025-12-08",
-    "end": "2025-12-08",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Weekly Splice Upgrade",
+    "title": "MainNet Major Upgrade on MainNet to Splice 0.5.1 / Canton 3.4",
     "start": "2025-12-10",
     "end": "2025-12-10",
-    "description": "MainNet Major Upgrade on MainNet to Splice 0.5.1 / Canton 3.4",
-    "category": "weekly-upgrade"
+    "description": "",
+    "category": "general"
   },
   {
     "title": "Facilitator: Digital-Asset-2",
@@ -1022,18 +959,11 @@
     "category": "general"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "MainNet SVs upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
     "start": "2025-12-11",
     "end": "2025-12-11",
-    "description": "MainNet SVs upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
+    "description": "(once ? of",
     "category": "weekly-upgrade"
-  },
-  {
-    "title": "(once ? of",
-    "start": "2025-12-11",
-    "end": "2025-12-11",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "SVs have upgraded) MainNet validators upgrade to Splice 0.5.4 (we skip 0.5.2 and 0.5.3)",
@@ -1106,10 +1036,17 @@
     "category": "general"
   },
   {
+    "title": "DevNet SVs upgrade to Splice 0.5.6, DevNet Validators stay on 0.5.5",
+    "start": "2026-01-19",
+    "end": "2026-01-19",
+    "description": "",
+    "category": "weekly-upgrade"
+  },
+  {
     "title": "Weekly Splice Upgrade",
     "start": "2026-01-19",
     "end": "2026-01-19",
-    "description": "DevNet SVs upgrade to Splice 0.5.6, DevNet Validators stay on 0.5.5\nTestNet upgrades to Splice 0.5.5\nMainNet remains on Splice 0.5.4",
+    "description": "TestNet upgrades to Splice 0.5.5\nMainNet remains on Splice 0.5.4",
     "category": "weekly-upgrade"
   },
   {
@@ -1123,21 +1060,35 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-01-26",
     "end": "2026-01-26",
-    "description": "DevNet upgrades to Splice 0.5.7\nTestNet SVs upgrade to Splice 0.5.6, TestNet Validators stay on 0.5.5\nMainNet upgrades to Splice 0.5.5",
+    "description": "DevNet upgrades to Splice 0.5.7",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "TestNet SVs upgrade to Splice 0.5.6, TestNet Validators stay on 0.5.5",
+    "start": "2026-01-26",
+    "end": "2026-01-26",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
     "title": "Weekly Splice Upgrade",
+    "start": "2026-01-26",
+    "end": "2026-01-26",
+    "description": "MainNet upgrades to Splice 0.5.5",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "DevNet SVs upgrade to Splice 0.5.8",
     "start": "2026-01-27",
     "end": "2026-01-27",
-    "description": "DevNet SVs upgrade to Splice 0.5.8",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "Weekly Splice Upgrade",
+    "title": "DevNet Validators upgrade to Splice 0.5.8",
     "start": "2026-01-28",
     "end": "2026-01-28",
-    "description": "DevNet Validators upgrade to Splice 0.5.8",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
@@ -1158,7 +1109,14 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-02-02",
     "end": "2026-02-02",
-    "description": "DevNet upgrades to Splice 0.5.9.\nTestNet upgrades to Splice 0.5.8 (skipping 0.5.7)\nMainNet SVs upgrade to Splice 0.5.6, MainNet Validators stay on 0.5.5",
+    "description": "DevNet upgrades to Splice 0.5.9.\nTestNet upgrades to Splice 0.5.8 (skipping 0.5.7)",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "MainNet SVs upgrade to Splice 0.5.6, MainNet Validators stay on 0.5.5",
+    "start": "2026-02-02",
+    "end": "2026-02-02",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
@@ -1466,7 +1424,21 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-05-04",
     "end": "2026-05-04",
-    "description": "DevNet upgrades to Splice 0.6.2\nTestNet remains on 0.5.18\nMainNet remains on Splice 0.5.18",
+    "description": "DevNet upgrades to Splice 0.6.2",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "TestNet remains on 0.5.18",
+    "start": "2026-05-04",
+    "end": "2026-05-04",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-05-04",
+    "end": "2026-05-04",
+    "description": "MainNet remains on Splice 0.5.18",
     "category": "weekly-upgrade"
   },
   {
