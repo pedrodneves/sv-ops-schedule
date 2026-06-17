@@ -500,14 +500,7 @@
     "title": "Deploy Splice 0.4.12 on MainNet",
     "start": "2025-09-08",
     "end": "2025-09-08",
-    "description": "GSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)\namulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.5",
-    "start": "2025-09-08",
-    "end": "2025-09-08",
-    "description": "wallet 0.1.13\nwalletPayments 0.1.13",
+    "description": "GSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)\namulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18\nvalidatorLifecycle 0.1.5\nwallet 0.1.13\nwalletPayments 0.1.13",
     "category": "general"
   },
   {
@@ -577,14 +570,7 @@
     "title": "Votes for all Daml model changes from 0.4.5 through 0.4.14 will take effect on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
     "start": "2025-09-16",
     "end": "2025-09-16",
-    "description": "amulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.5",
-    "start": "2025-09-16",
-    "end": "2025-09-16",
-    "description": "wallet 0.1.13\nwalletPayments 0.1.13",
+    "description": "amulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18\nvalidatorLifecycle 0.1.5\nwallet 0.1.13\nwalletPayments 0.1.13",
     "category": "general"
   },
   {
@@ -598,14 +584,7 @@
     "title": "GSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on MainNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
     "start": "2025-09-15",
     "end": "2025-09-15",
-    "description": "amulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.5",
-    "start": "2025-09-15",
-    "end": "2025-09-15",
-    "description": "wallet 0.1.13\nwalletPayments 0.1.13",
+    "description": "amulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18\nvalidatorLifecycle 0.1.5\nwallet 0.1.13\nwalletPayments 0.1.13",
     "category": "general"
   },
   {
@@ -647,14 +626,7 @@
     "title": "Votes for all Daml model changes from 0.4.5 through 0.4.14 will take effect on MainNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)",
     "start": "2025-09-23",
     "end": "2025-09-23",
-    "description": "amulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.5",
-    "start": "2025-09-23",
-    "end": "2025-09-23",
-    "description": "wallet 0.1.13\nwalletPayments 0.1.13",
+    "description": "amulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18\nvalidatorLifecycle 0.1.5\nwallet 0.1.13\nwalletPayments 0.1.13",
     "category": "general"
   },
   {
@@ -1382,15 +1354,8 @@
     "title": "Daml Model versions that will become effective: amulet 0.1.16",
     "start": "2026-03-31",
     "end": "2026-03-31",
-    "description": "amuletNameService 0.1.17\ndsoGovernance 0.1.22",
+    "description": "amuletNameService 0.1.17\ndsoGovernance 0.1.22\nvalidatorLifecycle 0.1.6\nwallet 0.1.17\nwalletPayments 0.1.16\nCIP that approved this (or none): none: Scalability improvement.\nFeatures enabled: add support for weighted featured app markers.",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-03-31",
-    "end": "2026-03-31",
-    "description": "wallet 0.1.17\nwalletPayments 0.1.16\nCIP that approved this (or none): none: Scalability improvement.\nFeatures enabled: add support for weighted featured app markers.",
-    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.18 (last release on 0.5.x / Canton 3.4)",
@@ -1424,15 +1389,8 @@
     "title": "Daml Model versions that will become effective:",
     "start": "2026-04-14",
     "end": "2026-04-14",
-    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-04-14",
-    "end": "2026-04-14",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
-    "category": "general"
   },
   {
     "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on MainNet",
@@ -1459,15 +1417,8 @@
     "title": "Daml Model versions that will become effective:",
     "start": "2026-04-21",
     "end": "2026-04-21",
-    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-04-21",
-    "end": "2026-04-21",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
-    "category": "general"
   },
   {
     "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on TestNet",
@@ -1529,15 +1480,8 @@
     "title": "Daml Model versions that will become effective:",
     "start": "2026-05-05",
     "end": "2026-05-05",
-    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-05",
-    "end": "2026-05-05",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
-    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.3",
@@ -1571,29 +1515,8 @@
     "title": "Splice .dars:",
     "start": "2026-05-12",
     "end": "2026-05-12",
-    "description": "DevNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "DevNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nTestNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-12",
-    "end": "2026-05-12",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nTestNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-12",
-    "end": "2026-05-12",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-12",
-    "end": "2026-05-12",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17",
-    "category": "general"
   },
   {
     "title": "SVs confirm LSU deployment automation in place and tested",
@@ -1620,29 +1543,8 @@
     "title": "Minimum Versions",
     "start": "2026-05-19",
     "end": "2026-05-19",
-    "description": "Splice:\nDevNet: 0.6.2\nTestNet: 0.5.16\nMainNet: 0.5.16\nSplice .dars:\nDevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "Splice:\nDevNet: 0.6.2\nTestNet: 0.5.16\nMainNet: 0.5.16\nSplice .dars:\nDevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-05-19",
-    "end": "2026-05-19",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-19",
-    "end": "2026-05-19",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-19",
-    "end": "2026-05-19",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17",
-    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.5",
@@ -1690,29 +1592,8 @@
     "title": "Splice .dars:",
     "start": "2026-05-26",
     "end": "2026-05-26",
-    "description": "DevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "DevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17",
-    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1739,14 +1620,7 @@
     "title": "DevNet LSU practice pv34->pv34,",
     "start": "2026-06-03",
     "end": "2026-06-03",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "validators must upgrade to >= 0.6.5 before the LSU",
-    "start": "2026-06-03",
-    "end": "2026-06-03",
-    "description": "",
+    "description": "validators must upgrade to >= 0.6.5 before the LSU",
     "category": "general"
   },
   {
@@ -1760,29 +1634,8 @@
     "title": "Splice .dars:",
     "start": "2026-06-02",
     "end": "2026-06-02",
-    "description": "DevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "DevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.6",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17",
-    "category": "general"
   },
   {
     "title": "Daml models from 0.6.1 effective on MainNet (required to vote on LSU: CIP-0117)",
@@ -1837,29 +1690,8 @@
     "title": "Splice .dars:",
     "start": "2026-06-09",
     "end": "2026-06-09",
-    "description": "DevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "DevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
   },
   {
     "title": "TestNet Topology Freeze 9am",
@@ -1893,29 +1725,8 @@
     "title": "Minimum Splice.dar Versions",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "Splice .dars:\nDevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "Splice .dars:\nDevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
@@ -1984,29 +1795,8 @@
     "title": "Minimum Splice.dar Versions",
     "start": "2026-06-23",
     "end": "2026-06-23",
-    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24\nvalidatorLifecycle 0.1.7\nwallet 0.1.19\nwalletPayments 0.1.18",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -2033,29 +1823,8 @@
     "title": "Minimum Splice.dar Versions",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
     "category": "minimum-version"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19",
-    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.11",
