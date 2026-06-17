@@ -399,13 +399,6 @@
     "category": "general"
   },
   {
-    "title": "TestNet Reset 9 am US Eastern",
-    "start": "2025-09-03",
-    "end": "2025-09-03",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "Deploy Splice 0.4.13 on DevNet",
     "start": "2025-09-01",
     "end": "2025-09-01",
@@ -651,13 +644,6 @@
     "category": "general"
   },
   {
-    "title": "TestNet Reset 9 am US Eastern",
-    "start": "2025-10-08",
-    "end": "2025-10-08",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "Cut release 0.4.20",
     "start": "2025-10-09",
     "end": "2025-10-09",
@@ -707,20 +693,6 @@
     "category": "minimum-version"
   },
   {
-    "title": "DevNet SV nodes upgrade to 0.4.21\r\rTestNet SV nodes upgrade to 0.4.20",
-    "start": "2025-10-17",
-    "end": "2025-10-17",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet SV nodes upgrade to 0.4.19",
-    "start": "2025-10-17",
-    "end": "2025-10-17",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "DevNet Validator nodes upgrade to Splice 0.4.21",
     "start": "2025-10-20",
     "end": "2025-10-20",
@@ -731,15 +703,8 @@
     "title": "TestNet Validator nodes upgrade to Splice 0.4.20",
     "start": "2025-10-20",
     "end": "2025-10-20",
-    "description": "",
+    "description": "MainNet Validator nodes upgrade to 0.4.19",
     "category": "weekly-upgrade"
-  },
-  {
-    "title": "MainNet Validator nodes upgrade to 0.4.19",
-    "start": "2025-10-20",
-    "end": "2025-10-20",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "Daml versions originally packaged with 0.4.18 effective on TestNet (CIP-0079)",
@@ -801,14 +766,7 @@
     "title": "TestNet SV nodes remain on Splice 0.4.22",
     "start": "2025-10-27",
     "end": "2025-10-27",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet SV nodes remain on 0.4.22",
-    "start": "2025-10-27",
-    "end": "2025-10-27",
-    "description": "",
+    "description": "MainNet SV nodes remain on 0.4.22",
     "category": "general"
   },
   {
@@ -836,14 +794,7 @@
     "title": "TestNet SV nodes remain on Splice 0.4.22",
     "start": "2025-11-03",
     "end": "2025-11-03",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet SV nodes remain on 0.4.22",
-    "start": "2025-11-03",
-    "end": "2025-11-03",
-    "description": "",
+    "description": "MainNet SV nodes remain on 0.4.22",
     "category": "general"
   },
   {
@@ -864,29 +815,15 @@
     "title": "DevNet SV nodes upgrade to Splice 0.4.25",
     "start": "2025-11-10",
     "end": "2025-11-10",
-    "description": "",
+    "description": "DevNet SV nodes spin up staging nodes for the major upgrade.",
     "category": "weekly-upgrade"
-  },
-  {
-    "title": "DevNet SV nodes spin up staging nodes for the major upgrade.",
-    "start": "2025-11-10",
-    "end": "2025-11-10",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "TestNet SV nodes upgrade to Splice 0.4.25",
     "start": "2025-11-10",
     "end": "2025-11-10",
-    "description": "",
+    "description": "MainNet SV nodes remain on 0.4.22",
     "category": "weekly-upgrade"
-  },
-  {
-    "title": "MainNet SV nodes remain on 0.4.22",
-    "start": "2025-11-10",
-    "end": "2025-11-10",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "Facilitator: MPCH",
@@ -976,14 +913,7 @@
     "title": "TestNet SV nodes remain on Splice 0.4.25",
     "start": "2025-11-24",
     "end": "2025-11-24",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet SV Nodes spin up staging nodes for the major upgrade with downtime",
-    "start": "2025-11-24",
-    "end": "2025-11-24",
-    "description": "",
+    "description": "TestNet SV Nodes spin up staging nodes for the major upgrade with downtime",
     "category": "general"
   },
   {
@@ -1060,14 +990,7 @@
     "title": "MainNet SV nodes remain on Splice 0.4.25",
     "start": "2025-12-08",
     "end": "2025-12-08",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet SV nodes set up staging nodes for the major upgrade with downtime",
-    "start": "2025-12-08",
-    "end": "2025-12-08",
-    "description": "",
+    "description": "MainNet SV nodes set up staging nodes for the major upgrade with downtime",
     "category": "general"
   },
   {
@@ -1354,15 +1277,8 @@
     "title": "Daml versions from 0.5.7 effective on MainNet (CIP-82 development fund accumulation)",
     "start": "2026-02-12",
     "end": "2026-02-12",
-    "description": "",
+    "description": "DevNet, TestNet and MainNet Validator Liveness rewards go from 3.33 per round to 2.5 per round",
     "category": "minimum-version"
-  },
-  {
-    "title": "DevNet, TestNet and MainNet Validator Liveness rewards go from 3.33 per round to 2.5 per round",
-    "start": "2026-02-12",
-    "end": "2026-02-12",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.11",
@@ -1848,18 +1764,11 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.5.16\rTestNet: 0.5.16",
+    "title": "Minimum Versions",
     "start": "2026-05-12",
     "end": "2026-05-12",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.5.16",
-    "start": "2026-05-12",
-    "end": "2026-05-12",
-    "description": "",
-    "category": "general"
+    "description": "Splice:\nDevNet: 0.5.16\rTestNet: 0.5.16\nMainNet: 0.5.16",
+    "category": "minimum-version"
   },
   {
     "title": "Cut splice release 0.6.4",
@@ -1869,24 +1778,10 @@
     "category": "general"
   },
   {
-    "title": "DevNet:",
-    "start": "2026-05-12",
-    "end": "2026-05-12",
-    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
-    "category": "general"
-  },
-  {
     "title": "validatorLifecycle 0.1.6",
     "start": "2026-05-12",
     "end": "2026-05-12",
-    "description": "wallet 0.1.18\nwalletPayments 0.1.17",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-05-12",
-    "end": "2026-05-12",
-    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "wallet 0.1.18\nwalletPayments 0.1.17\nTestNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
     "category": "general"
   },
   {
@@ -1939,38 +1834,17 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.2\rTestNet: 0.5.16",
+    "title": "Minimum Versions",
     "start": "2026-05-19",
     "end": "2026-05-19",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.5.16",
-    "start": "2026-05-19",
-    "end": "2026-05-19",
-    "description": "Splice .dars:",
-    "category": "general"
-  },
-  {
-    "title": "DevNet:",
-    "start": "2026-05-19",
-    "end": "2026-05-19",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
+    "description": "Splice:\nDevNet: 0.6.2\rTestNet: 0.5.16\nMainNet: 0.5.16\nSplice .dars:\nDevNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "category": "minimum-version"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-05-19",
     "end": "2026-05-19",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-05-19",
-    "end": "2026-05-19",
-    "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
     "category": "general"
   },
   {
@@ -2023,18 +1897,11 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.2\rTestNet: 0.6.2",
+    "title": "Minimum Versions",
     "start": "2026-05-26",
     "end": "2026-05-26",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.5.16",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "",
-    "category": "general"
+    "description": "Splice:\nDevNet: 0.6.2\rTestNet: 0.6.2\nMainNet: 0.5.16",
+    "category": "minimum-version"
   },
   {
     "title": "Cut splice release 0.6.6",
@@ -2044,38 +1911,17 @@
     "category": "general"
   },
   {
-    "title": "DevNet:",
+    "title": "validatorLifecycle 0.1.7",
     "start": "2026-05-26",
     "end": "2026-05-26",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-05-26",
     "end": "2026-05-26",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "MainNet:\ramulet 0.1.17",
-    "start": "2026-05-26",
-    "end": "2026-05-26",
-    "description": "amuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
     "category": "general"
   },
   {
@@ -2107,25 +1953,11 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.5\rTestNet: 0.6.2",
+    "title": "Minimum Versions for Validators",
     "start": "2026-06-02",
     "end": "2026-06-02",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.5.16",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet LSU practice pv34->pv34,",
-    "start": "2026-06-03",
-    "end": "2026-06-03",
-    "description": "",
-    "category": "general"
+    "description": "Splice:\nDevNet: 0.6.5\rTestNet: 0.6.2\nMainNet: 0.5.16",
+    "category": "minimum-version"
   },
   {
     "title": "validators must upgrade to >= 0.6.5 before the LSU",
@@ -2142,38 +1974,17 @@
     "category": "general"
   },
   {
-    "title": "DevNet:",
+    "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-02",
     "end": "2026-06-02",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-02",
     "end": "2026-06-02",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "MainNet:\ramulet 0.1.17",
-    "start": "2026-06-02",
-    "end": "2026-06-02",
-    "description": "amuletNameService 0.1.18\ndsoGovernance 0.1.23",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\ramulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23",
     "category": "general"
   },
   {
@@ -2212,38 +2023,17 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet Topology Freeze 9am",
+    "title": "Minimum Versions for Validators",
     "start": "2026-06-09",
     "end": "2026-06-09",
-    "description": "Minimum Versions for Validators\nSplice:",
-    "category": "general"
-  },
-  {
-    "title": "DevNet: 0.6.5\rTestNet: 0.6.5",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.2",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "",
-    "category": "general"
+    "description": "Splice:\nDevNet: 0.6.5\rTestNet: 0.6.5\nMainNet: 0.6.2",
+    "category": "minimum-version"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-06-10",
     "end": "2026-06-10",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU. \r\rTopology freeze starts June 9th, 24 hours before LSU",
-    "start": "2026-06-10",
-    "end": "2026-06-10",
-    "description": "",
+    "description": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU. \r\rTopology freeze starts June 9th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -2254,10 +2044,17 @@
     "category": "general"
   },
   {
-    "title": "DevNet:",
+    "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-09",
     "end": "2026-06-09",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "category": "general"
+  },
+  {
+    "title": "validatorLifecycle 0.1.7",
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
     "category": "general"
   },
   {
@@ -2266,48 +2063,6 @@
     "end": "2026-06-09",
     "description": "wallet 0.1.19\nwalletPayments 0.1.18",
     "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "MainNet:\ramulet 0.1.18",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "amuletNameService 0.1.19\ndsoGovernance 0.1.24",
-    "category": "general"
-  },
-  {
-    "title": "validatorLifecycle 0.1.7",
-    "start": "2026-06-09",
-    "end": "2026-06-09",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "TestNet Topology Freeze 9am",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "",
-    "category": "minimum-version"
   },
   {
     "title": "Cut splice release 0.6.9",
@@ -2334,63 +2089,35 @@
     "title": "MainNet upgrades to Splice 0.6.6",
     "start": "2026-06-15",
     "end": "2026-06-15",
-    "description": "Minimum Splice Versions for Validators",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.7",
+    "title": "Minimum Splice Versions for Validators",
     "start": "2026-06-15",
     "end": "2026-06-15",
-    "description": "",
-    "category": "general"
+    "description": "DevNet: 0.6.7\nTestNet: 0.6.5\nMainNet: 0.6.2",
+    "category": "minimum-version"
   },
   {
-    "title": "TestNet: 0.6.5",
-    "start": "2026-06-15",
-    "end": "2026-06-15",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.2",
-    "start": "2026-06-15",
-    "end": "2026-06-15",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet:",
+    "title": "Minimum Splice.dar Versions",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "Splice .dars:\nDevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "amulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "wallet 0.1.19\nwalletPayments 0.1.18",
-    "category": "general"
-  },
-  {
-    "title": "MainNet:\ramulet 0.1.18",
-    "start": "2026-06-16",
-    "end": "2026-06-16",
-    "description": "amuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "wallet 0.1.19\nwalletPayments 0.1.18\nMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
     "category": "general"
   },
   {
@@ -2404,14 +2131,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-06-17",
     "end": "2026-06-17",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU. \r\rTopology freeze starts June 16th, 24 hours before LSU",
-    "start": "2026-06-17",
-    "end": "2026-06-17",
-    "description": "",
+    "description": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU. \r\rTopology freeze starts June 16th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -2432,42 +2152,14 @@
     "title": "MainNet upgrades to Splice 0.6.7",
     "start": "2026-06-22",
     "end": "2026-06-22",
-    "description": "Minimum Splice Versions for Validators",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.7",
+    "title": "Minimum Splice Versions for Validators",
     "start": "2026-06-22",
     "end": "2026-06-22",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: 0.6.7",
-    "start": "2026-06-22",
-    "end": "2026-06-22",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.5",
-    "start": "2026-06-22",
-    "end": "2026-06-22",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet: Dry-run of traffic-based app rewards begins",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "",
+    "description": "DevNet: 0.6.7\nTestNet: 0.6.7\nMainNet: 0.6.5",
     "category": "minimum-version"
   },
   {
@@ -2478,59 +2170,31 @@
     "category": "general"
   },
   {
-    "title": "MainNet Topology Freeze 9am",
-    "start": "2026-06-26",
-    "end": "2026-06-26",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-06-27",
     "end": "2026-06-27",
-    "description": "",
+    "description": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU \r\rTopology freeze starts June 26th, 24 hours before LSU",
     "category": "general"
   },
   {
-    "title": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU \r\rTopology freeze starts June 26th, 24 hours before LSU",
-    "start": "2026-06-27",
-    "end": "2026-06-27",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet:",
+    "title": "Minimum Splice.dar Versions",
     "start": "2026-06-23",
     "end": "2026-06-23",
-    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-23",
     "end": "2026-06-23",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-23",
     "end": "2026-06-23",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19",
-    "category": "general"
-  },
-  {
-    "title": "MainNet:\ramulet 0.1.18",
-    "start": "2026-06-23",
-    "end": "2026-06-23",
-    "description": "amuletNameService 0.1.19\ndsoGovernance 0.1.24",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\ramulet 0.1.18\namuletNameService 0.1.19\ndsoGovernance 0.1.24",
     "category": "general"
   },
   {
@@ -2558,84 +2222,35 @@
     "title": "MainNet upgrades to Splice 0.6.8",
     "start": "2026-06-29",
     "end": "2026-06-29",
-    "description": "Minimum Splice Versions for Validators",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.7",
+    "title": "Minimum Splice Versions for Validators",
     "start": "2026-06-29",
     "end": "2026-06-29",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: 0.6.7",
-    "start": "2026-06-29",
-    "end": "2026-06-29",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.7",
-    "start": "2026-06-29",
-    "end": "2026-06-29",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "",
+    "description": "DevNet: 0.6.7\nTestNet: 0.6.7\nMainNet: 0.6.7",
     "category": "minimum-version"
   },
   {
-    "title": "TestNet: Dry-run of traffic-based app rewards begins",
+    "title": "Minimum Splice.dar Versions",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "Minimum Splice.dar Versions",
-    "category": "minimum-version"
-  },
-  {
-    "title": "DevNet:",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19",
-    "category": "general"
-  },
-  {
-    "title": "TestNet:",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "amulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
     "category": "general"
   },
   {
     "title": "validatorLifecycle 0.1.7",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "wallet 0.1.20\nwalletPayments 0.1.19",
-    "category": "general"
-  },
-  {
-    "title": "MainNet:\ramulet 0.1.19",
-    "start": "2026-06-30",
-    "end": "2026-06-30",
-    "description": "amuletNameService 0.1.20\ndsoGovernance 0.1.25",
+    "description": "wallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\ramulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25",
     "category": "general"
   },
   {
@@ -2651,13 +2266,6 @@
     "end": "2026-07-02",
     "description": "",
     "category": "general"
-  },
-  {
-    "title": "TestNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
-    "description": "",
-    "category": "minimum-version"
   },
   {
     "title": "DevNet upgrades to Splice 0.6.11",
@@ -2677,63 +2285,21 @@
     "title": "MainNet upgrades to Splice 0.6.9",
     "start": "2026-07-06",
     "end": "2026-07-06",
-    "description": "Minimum Splice Versions for Validators",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.9 (To Be Confirmed)",
+    "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-06",
     "end": "2026-07-06",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: 0.6.7",
-    "start": "2026-07-06",
-    "end": "2026-07-06",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.7",
-    "start": "2026-07-06",
-    "end": "2026-07-06",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet: Traffic-based app rewards (CIP-104) goes live",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: Dry-run of traffic-based app rewards begins",
-    "start": "2026-07-07",
-    "end": "2026-07-07",
-    "description": "",
-    "category": "general"
+    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.7\nMainNet: 0.6.7",
+    "category": "minimum-version"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-07-08",
     "end": "2026-07-08",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "DevNet: LSU to adopt CantonBFT-based synchronizers. \r\rTopology freeze starts July 7th, 24 hours before LSU",
-    "start": "2026-07-08",
-    "end": "2026-07-08",
-    "description": "",
+    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers. \r\rTopology freeze starts July 7th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -2765,20 +2331,6 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
-    "start": "2026-07-14",
-    "end": "2026-07-14",
-    "description": "",
-    "category": "minimum-version"
-  },
-  {
-    "title": "MainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
-    "start": "2026-07-14",
-    "end": "2026-07-14",
-    "description": "",
-    "category": "minimum-version"
-  },
-  {
     "title": "Cut splice release 0.6.13",
     "start": "2026-07-16",
     "end": "2026-07-16",
@@ -2786,38 +2338,10 @@
     "category": "general"
   },
   {
-    "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
-    "start": "2026-07-21",
-    "end": "2026-07-21",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
-    "start": "2026-07-21",
-    "end": "2026-07-21",
-    "description": "",
-    "category": "minimum-version"
-  },
-  {
-    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-07-21",
-    "end": "2026-07-21",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-07-22",
     "end": "2026-07-22",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: LSU to adopt CantonBFT-based synchronizers. \r\rTopology freeze starts July 21st, 24 hours before LSU",
-    "start": "2026-07-22",
-    "end": "2026-07-22",
-    "description": "",
+    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers. \r\rTopology freeze starts July 21st, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -2845,29 +2369,15 @@
     "title": "MainNet upgrades to Splice 0.6.11",
     "start": "2026-07-20",
     "end": "2026-07-20",
-    "description": "Minimum Splice Versions for Validators",
+    "description": "",
     "category": "weekly-upgrade"
   },
   {
-    "title": "DevNet: 0.6.9 (To Be Confirmed)",
+    "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-20",
     "end": "2026-07-20",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: 0.6.9 (To Be Confirmed)",
-    "start": "2026-07-20",
-    "end": "2026-07-20",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.7",
-    "start": "2026-07-20",
-    "end": "2026-07-20",
-    "description": "",
-    "category": "general"
+    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9 (To Be Confirmed)\nMainNet: 0.6.7",
+    "category": "minimum-version"
   },
   {
     "title": "DevNet upgrades to Splice 0.6.14",
@@ -2891,20 +2401,6 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "MainNet: Traffic-based app rewards (CIP-104) go live",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": "",
-    "category": "minimum-version"
-  },
-  {
     "title": "Cut splice release 0.6.15",
     "start": "2026-07-30",
     "end": "2026-07-30",
@@ -2912,45 +2408,17 @@
     "category": "general"
   },
   {
-    "title": "DevNet: 0.6.9 (To Be Confirmed)",
+    "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-27",
     "end": "2026-07-27",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "TestNet: 0.6.9 (To Be Confirmed)",
-    "start": "2026-07-27",
-    "end": "2026-07-27",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet: 0.6.9 (To Be Confirmed)",
-    "start": "2026-07-27",
-    "end": "2026-07-27",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-08-07",
-    "end": "2026-08-07",
-    "description": "",
-    "category": "general"
+    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9 (To Be Confirmed)\nMainNet: 0.6.9 (To Be Confirmed)",
+    "category": "minimum-version"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-08-08",
     "end": "2026-08-08",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "MainNet LSU to adopt CantonBFT-based synchronizers\r\rTopology freeze starts August 7th, 24 hours before LSU",
-    "start": "2026-08-08",
-    "end": "2026-08-08",
-    "description": "",
+    "description": "MainNet LSU to adopt CantonBFT-based synchronizers\r\rTopology freeze starts August 7th, 24 hours before LSU",
     "category": "general"
   }
 ]
