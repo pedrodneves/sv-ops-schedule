@@ -138,17 +138,17 @@
       width: 100%;
     }
 
-.day {
-  height: 260px;
-  border: 1px solid rgba(124,77,255,0.7);
-  border-radius: 14px;
-  background:
-    radial-gradient(circle at top left, rgba(124,77,255,0.18), transparent 45%),
-    linear-gradient(135deg, #1a0f34, #070812);
-  padding: 12px;
-  overflow-y: auto;
-  overflow-x: hidden;
-}
+    .day {
+      height: 260px;
+      border: 1px solid rgba(124,77,255,0.7);
+      border-radius: 14px;
+      background:
+        radial-gradient(circle at top left, rgba(124,77,255,0.18), transparent 45%),
+        linear-gradient(135deg, #1a0f34, #070812);
+      padding: 12px;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
 
     .day.outside { opacity: 0.35; }
 
@@ -171,7 +171,6 @@
       font-size: 13px;
       line-height: 1.4;
       margin-bottom: 8px;
-      white-space: pre-wrap;
       overflow-wrap: break-word;
       background: rgba(124,77,255,0.22);
     }
@@ -179,12 +178,34 @@
     .event-title {
       font-weight: 800;
       text-decoration: underline;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
     }
 
     .event-description {
-      white-space: pre-wrap;
       margin-top: 4px;
+    }
+
+    .event-section {
+      margin-top: 10px;
+      padding-top: 8px;
+      border-top: 1px solid rgba(243,234,78,0.25);
+    }
+
+    .event-section:first-child {
+      margin-top: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    .event-section-title {
+      color: var(--yellow);
+      font-weight: 800;
+      text-decoration: underline;
+      margin-bottom: 4px;
+    }
+
+    .event-line {
+      margin: 1px 0;
     }
 
     .event-badge {
@@ -387,6 +408,50 @@
         String(date.getDate()).padStart(2, '0');
     }
 
+    function appendFormattedDescription(parent, description) {
+      const container = document.createElement('div');
+      container.className = 'event-description';
+
+      const lines = String(description || '')
+        .split(/\r?\n|\r/)
+        .map(line => line.trim())
+        .filter(Boolean);
+
+      let currentSection = null;
+
+      lines.forEach(line => {
+        const isNetworkHeader =
+          /^DevNet:$/i.test(line) ||
+          /^TestNet:$/i.test(line) ||
+          /^MainNet:$/i.test(line);
+
+        if (isNetworkHeader) {
+          currentSection = document.createElement('div');
+          currentSection.className = 'event-section';
+
+          const title = document.createElement('div');
+          title.className = 'event-section-title';
+          title.textContent = line;
+
+          currentSection.appendChild(title);
+          container.appendChild(currentSection);
+          return;
+        }
+
+        const lineDiv = document.createElement('div');
+        lineDiv.className = 'event-line';
+        lineDiv.textContent = line;
+
+        if (currentSection) {
+          currentSection.appendChild(lineDiv);
+        } else {
+          container.appendChild(lineDiv);
+        }
+      });
+
+      parent.appendChild(container);
+    }
+
     function renderCalendar() {
       const calendar = document.getElementById('calendar');
       const search = document.getElementById('search').value.toLowerCase();
@@ -469,10 +534,7 @@
           eventDiv.appendChild(title);
 
           if (event.description) {
-            const description = document.createElement('div');
-            description.className = 'event-description';
-            description.textContent = event.description;
-            eventDiv.appendChild(description);
+            appendFormattedDescription(eventDiv, event.description);
           }
 
           day.appendChild(eventDiv);
