@@ -1781,7 +1781,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-06-29",
     "end": "2026-06-29",
-    "description": "DevNet: 0.6.7\nTestNet: 0.6.7\nMainNet: 0.6.7",
+    "description": "DevNet: 0.6.9\nTestNet: 0.6.7\nMainNet: 0.6.7",
     "category": "minimum-version"
   },
   {
@@ -1795,7 +1795,7 @@
     "title": "Minimum Splice.dar Versions",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "DevNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
+    "description": "DevNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nTestNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
     "category": "minimum-version"
   },
   {
@@ -1823,7 +1823,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-06",
     "end": "2026-07-06",
-    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.7\nMainNet: 0.6.7",
+    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9\nMainNet: 0.6.7",
     "category": "minimum-version"
   },
   {
@@ -1832,6 +1832,13 @@
     "end": "2026-07-07",
     "description": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC\nMainNet: Dry-run of traffic-based app rewards begins",
     "category": "general"
+  },
+  {
+    "title": "Minimum Splice.dar Versions",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": "DevNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
+    "category": "minimum-version"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
@@ -1862,6 +1869,13 @@
     "category": "weekly-upgrade"
   },
   {
+    "title": "Minimum Splice Versions for Validators",
+    "start": "2026-07-13",
+    "end": "2026-07-13",
+    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9\nMainNet: 0.6.9",
+    "category": "minimum-version"
+  },
+  {
     "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "start": "2026-07-14",
     "end": "2026-07-14",
@@ -1874,6 +1888,13 @@
     "end": "2026-07-16",
     "description": "",
     "category": "general"
+  },
+  {
+    "title": "Minimum Splice.dar Versions",
+    "start": "2026-07-14",
+    "end": "2026-07-14",
+    "description": "DevNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
+    "category": "minimum-version"
   },
   {
     "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
@@ -1914,7 +1935,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-20",
     "end": "2026-07-20",
-    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9 (To Be Confirmed)\nMainNet: 0.6.7",
+    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9 (To Be Confirmed)\nMainNet: 0.6.9",
     "category": "minimum-version"
   },
   {
