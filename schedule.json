@@ -1823,7 +1823,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-06",
     "end": "2026-07-06",
-    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9\nMainNet: 0.6.7",
+    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.7",
     "category": "minimum-version"
   },
   {
@@ -1872,7 +1872,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-13",
     "end": "2026-07-13",
-    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9\nMainNet: 0.6.9",
+    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.9",
     "category": "minimum-version"
   },
   {
@@ -1935,7 +1935,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-20",
     "end": "2026-07-20",
-    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9 (To Be Confirmed)\nMainNet: 0.6.9",
+    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.9",
     "category": "minimum-version"
   },
   {
@@ -1970,7 +1970,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-27",
     "end": "2026-07-27",
-    "description": "DevNet: 0.6.9 (To Be Confirmed)\nTestNet: 0.6.9 (To Be Confirmed)\nMainNet: 0.6.9 (To Be Confirmed)",
+    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.9",
     "category": "minimum-version"
   },
   {
