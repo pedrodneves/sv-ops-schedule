@@ -1830,7 +1830,7 @@
     "title": "DevNet: Traffic-based app rewards (CIP-104) goes live",
     "start": "2026-07-07",
     "end": "2026-07-07",
-    "description": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC\nMainNet: Dry-run of traffic-based app rewards begins",
+    "description": "MainNet: Dry-run of traffic-based app rewards begins",
     "category": "general"
   },
   {
@@ -1839,20 +1839,6 @@
     "end": "2026-07-07",
     "description": "DevNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
     "category": "minimum-version"
-  },
-  {
-    "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-07-08",
-    "end": "2026-07-08",
-    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 7th, 24 hours before LSU",
-    "start": "2026-07-08",
-    "end": "2026-07-08",
-    "description": "",
-    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.12",
@@ -1876,11 +1862,25 @@
     "category": "minimum-version"
   },
   {
-    "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
     "start": "2026-07-14",
     "end": "2026-07-14",
-    "description": "MainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
-    "category": "minimum-version"
+    "description": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)\nMainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
+    "category": "general"
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-07-15",
+    "end": "2026-07-15",
+    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts July 7th, 24 hours before LSU",
+    "start": "2026-07-15",
+    "end": "2026-07-15",
+    "description": "",
+    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.13",
@@ -1900,21 +1900,7 @@
     "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
     "start": "2026-07-21",
     "end": "2026-07-21",
-    "description": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)\nTestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
-    "category": "general"
-  },
-  {
-    "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-07-22",
-    "end": "2026-07-22",
-    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 21st, 24 hours before LSU",
-    "start": "2026-07-22",
-    "end": "2026-07-22",
-    "description": "",
+    "description": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "category": "general"
   },
   {
@@ -1960,6 +1946,20 @@
     "category": "general"
   },
   {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-07-29",
+    "end": "2026-07-29",
+    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts July 21st, 24 hours before LSU",
+    "start": "2026-07-29",
+    "end": "2026-07-29",
+    "description": "",
+    "category": "general"
+  },
+  {
     "title": "Cut splice release 0.6.15",
     "start": "2026-07-30",
     "end": "2026-07-30",
@@ -1974,6 +1974,13 @@
     "category": "minimum-version"
   },
   {
+    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "description": "",
+    "category": "general"
+  },
+  {
     "title": "Deprecated TransferCommand functionality removed from validator app from DevNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
     "start": "2026-08-03",
     "end": "2026-08-03",
@@ -1981,30 +1988,30 @@
     "category": "general"
   },
   {
+    "title": "Deprecated TransferCommand functionality removed from validator app from TestNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
+    "start": "2026-08-10",
+    "end": "2026-08-10",
+    "description": "",
+    "category": "general"
+  },
+  {
     "title": "MainNet Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-08-07",
-    "end": "2026-08-07",
+    "start": "2026-08-14",
+    "end": "2026-08-14",
     "description": "",
     "category": "general"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-08-08",
-    "end": "2026-08-08",
+    "start": "2026-08-15",
+    "end": "2026-08-15",
     "description": "MainNet LSU to adopt CantonBFT-based synchronizers",
     "category": "general"
   },
   {
     "title": "Topology freeze starts August 7th, 24 hours before LSU",
-    "start": "2026-08-08",
-    "end": "2026-08-08",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Deprecated TransferCommand functionality removed from validator app from TestNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
-    "start": "2026-08-10",
-    "end": "2026-08-10",
+    "start": "2026-08-15",
+    "end": "2026-08-15",
     "description": "",
     "category": "general"
   },
