@@ -1858,7 +1858,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-13",
     "end": "2026-07-13",
-    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.9",
+    "description": "DevNet: 0.6.11\nTestNet: 0.6.9\nMainNet: 0.6.9",
     "category": "minimum-version"
   },
   {
@@ -1893,7 +1893,7 @@
     "title": "Minimum Splice.dar Versions",
     "start": "2026-07-14",
     "end": "2026-07-14",
-    "description": "DevNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
+    "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
     "category": "minimum-version"
   },
   {
@@ -1902,6 +1902,13 @@
     "end": "2026-07-21",
     "description": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "category": "general"
+  },
+  {
+    "title": "Minimum Splice.dar Versions",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
+    "category": "minimum-version"
   },
   {
     "title": "Cut splice release 0.6.14",
@@ -1921,7 +1928,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-20",
     "end": "2026-07-20",
-    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.9",
+    "description": "DevNet: 0.6.11\nTestNet: 0.6.11\nMainNet: 0.6.9",
     "category": "minimum-version"
   },
   {
@@ -1970,7 +1977,7 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-27",
     "end": "2026-07-27",
-    "description": "DevNet: 0.6.9\nTestNet: 0.6.9\nMainNet: 0.6.9",
+    "description": "DevNet: 0.6.11\nTestNet: 0.6.11\nMainNet: 0.6.11",
     "category": "minimum-version"
   },
   {
@@ -1979,6 +1986,13 @@
     "end": "2026-07-28",
     "description": "",
     "category": "general"
+  },
+  {
+    "title": "Minimum Splice.dar Versions",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nMainNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21",
+    "category": "minimum-version"
   },
   {
     "title": "Deprecated TransferCommand functionality removed from validator app from DevNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
