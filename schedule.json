@@ -1641,14 +1641,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-06-10",
     "end": "2026-06-10",
-    "description": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts June 9th, 24 hours before LSU",
-    "start": "2026-06-10",
-    "end": "2026-06-10",
-    "description": "",
+    "description": "DevNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU.\nTopology freeze starts June 9th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -1704,14 +1697,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-06-17",
     "end": "2026-06-17",
-    "description": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts June 16th, 24 hours before LSU",
-    "start": "2026-06-17",
-    "end": "2026-06-17",
-    "description": "",
+    "description": "TestNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU.\nTopology freeze starts June 16th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -1753,14 +1739,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-06-27",
     "end": "2026-06-27",
-    "description": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts June 26th, 24 hours before LSU",
-    "start": "2026-06-27",
-    "end": "2026-06-27",
-    "description": "",
+    "description": "MainNet LSU pv34->pv35, validators must upgrade to >= 0.6.5 before the LSU\nTopology freeze starts June 26th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -1872,14 +1851,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-07-15",
     "end": "2026-07-15",
-    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 14th, 24 hours before LSU",
-    "start": "2026-07-15",
-    "end": "2026-07-15",
-    "description": "",
+    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.\nTopology freeze starts July 14th, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -1956,14 +1928,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-07-29",
     "end": "2026-07-29",
-    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 28st, 24 hours before LSU",
-    "start": "2026-07-29",
-    "end": "2026-07-29",
-    "description": "",
+    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.\nTopology freeze starts July 28st, 24 hours before LSU",
     "category": "general"
   },
   {
@@ -2019,14 +1984,7 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-08-15",
     "end": "2026-08-15",
-    "description": "MainNet LSU to adopt CantonBFT-based synchronizers",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts August 14th, 24 hours before LSU",
-    "start": "2026-08-15",
-    "end": "2026-08-15",
-    "description": "",
+    "description": "MainNet LSU to adopt CantonBFT-based synchronizers\nTopology freeze starts August 14th, 24 hours before LSU",
     "category": "general"
   },
   {
