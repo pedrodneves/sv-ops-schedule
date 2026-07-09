@@ -1858,14 +1858,14 @@
     "title": "Minimum Splice Versions for Validators",
     "start": "2026-07-13",
     "end": "2026-07-13",
-    "description": "DevNet: 0.6.11\nTestNet: 0.6.9\nMainNet: 0.6.9",
+    "description": "DevNet: 0.6.11\nTestNet: 0.6.9\nMainNet: 0.6.7",
     "category": "minimum-version"
   },
   {
     "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
     "start": "2026-07-14",
     "end": "2026-07-14",
-    "description": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)\nMainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
+    "description": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "category": "general"
   },
   {
@@ -1893,14 +1893,14 @@
     "title": "Minimum Splice.dar Versions",
     "start": "2026-07-14",
     "end": "2026-07-14",
-    "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
+    "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20\nMainNet:\namulet 0.1.19\namuletNameService 0.1.20\ndsoGovernance 0.1.25\nvalidatorLifecycle 0.1.7\nwallet 0.1.20\nwalletPayments 0.1.19",
     "category": "minimum-version"
   },
   {
     "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
     "start": "2026-07-21",
     "end": "2026-07-21",
-    "description": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "description": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)\nMainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
     "category": "general"
   },
   {
