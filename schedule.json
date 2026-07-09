@@ -676,7 +676,7 @@
     "start": "2025-10-02",
     "end": "2025-10-02",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Deploy Splice 0.4.19 on DevNet",
@@ -711,14 +711,14 @@
     "start": "2025-10-09",
     "end": "2025-10-09",
     "description": "CC Transfer Fees to Zero effective on DevNet (remainder of CIP-0078 takes effect)",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml versions from 0.4.18 effective on DevNet (CIP-0079)",
     "start": "2025-10-10",
     "end": "2025-10-10",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Deploy Splice 0.4.20 on DevNet",
@@ -746,7 +746,7 @@
     "start": "2025-10-16",
     "end": "2025-10-16",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "CC Transfer Fees to Zero effective on TestNet (remainder of CIP-0078 takes effect)",
@@ -767,7 +767,7 @@
     "start": "2025-10-21",
     "end": "2025-10-21",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "CC Transfer Fees to Zero effective on MainNet (remainder of CIP-0078 takes effect)",
@@ -816,7 +816,7 @@
     "start": "2025-10-28",
     "end": "2025-10-28",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "DevNet Validators upgrade to Splice 0.4.23",
@@ -1096,7 +1096,7 @@
     "start": "2026-01-29",
     "end": "2026-01-29",
     "description": "Note: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades.",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.9",
@@ -1124,7 +1124,7 @@
     "start": "2026-02-05",
     "end": "2026-02-05",
     "description": "Note: for this particular Daml model upgrade, Validator nodes on Splice 0.5.5 will continue to operate correctly after the new Daml models take effect. Upgrades to 0.5.8 are still recommended and will be required for future Daml model upgrades.",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.10",
@@ -1152,14 +1152,14 @@
     "start": "2026-02-10",
     "end": "2026-02-10",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml versions from 0.5.7 effective on MainNet (CIP-82 development fund accumulation)",
     "start": "2026-02-12",
     "end": "2026-02-12",
     "description": "DevNet, TestNet and MainNet Validator Liveness rewards go from 3.33 per round to 2.5 per round",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.11",
@@ -1180,7 +1180,7 @@
     "start": "2026-02-17",
     "end": "2026-02-17",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.12",
@@ -1201,14 +1201,14 @@
     "start": "2026-02-24",
     "end": "2026-02-24",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml Versions from 0.5.11 effective on DevNet (App Marker Efficiency Improvements)",
     "start": "2026-02-24",
     "end": "2026-02-24",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.13",
@@ -1222,7 +1222,7 @@
     "start": "2026-03-03",
     "end": "2026-03-03",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1243,7 +1243,7 @@
     "start": "2026-03-10",
     "end": "2026-03-10",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1306,14 +1306,14 @@
     "start": "2026-03-31",
     "end": "2026-03-31",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml Model versions that will become effective: amulet 0.1.16",
     "start": "2026-03-31",
     "end": "2026-03-31",
     "description": "amuletNameService 0.1.17\ndsoGovernance 0.1.22\nvalidatorLifecycle 0.1.6\nwallet 0.1.17\nwalletPayments 0.1.16\nCIP that approved this (or none): none: Scalability improvement.\nFeatures enabled: add support for weighted featured app markers.",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut Splice release 0.5.18 (last release on 0.5.x / Canton 3.4)",
@@ -1341,14 +1341,14 @@
     "start": "2026-04-14",
     "end": "2026-04-14",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml Model versions that will become effective:",
     "start": "2026-04-14",
     "end": "2026-04-14",
     "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on MainNet",
@@ -1369,14 +1369,14 @@
     "start": "2026-04-21",
     "end": "2026-04-21",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml Model versions that will become effective:",
     "start": "2026-04-21",
     "end": "2026-04-21",
     "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Development Fund Manager Party (dfm) value changes from null to an effective value on TestNet",
@@ -1446,14 +1446,14 @@
     "start": "2026-05-05",
     "end": "2026-05-05",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Daml Model versions that will become effective:",
     "start": "2026-05-05",
     "end": "2026-05-05",
     "description": "amulet 0.1.17\namuletNameService 0.1.18\ndsoGovernance 0.1.23\nvalidatorLifecycle 0.1.6\nwallet 0.1.18\nwalletPayments 0.1.17\nCIP that approved this (or none): CIP-0107\nFeatures enabled: 24-hour submission delay for Canton Coin, new fields on AmuletRules are used in CC transfers",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.3",
@@ -1502,7 +1502,7 @@
     "start": "2026-05-19",
     "end": "2026-05-19",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1530,7 +1530,7 @@
     "start": "2026-05-26",
     "end": "2026-05-26",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1614,7 +1614,7 @@
     "start": "2026-06-09",
     "end": "2026-06-09",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1677,7 +1677,7 @@
     "start": "2026-06-16",
     "end": "2026-06-16",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.9",
@@ -1747,7 +1747,7 @@
     "start": "2026-06-23",
     "end": "2026-06-23",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.10",
@@ -1803,14 +1803,14 @@
     "start": "2026-06-30",
     "end": "2026-06-30",
     "description": "TestNet: Dry-run of traffic-based app rewards begins",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "MainNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
     "start": "2026-06-30",
     "end": "2026-06-30",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Minimum Splice.dar Versions",
@@ -1831,7 +1831,7 @@
     "start": "2026-07-07",
     "end": "2026-07-07",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Weekly Splice Upgrade",
@@ -1869,6 +1869,13 @@
     "category": "general"
   },
   {
+    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-07-14",
+    "end": "2026-07-14",
+    "description": "",
+    "category": "general"
+  },
+  {
     "title": "Weekly Splice Upgrade",
     "start": "2026-07-13",
     "end": "2026-07-13",
@@ -1883,18 +1890,11 @@
     "category": "minimum-version"
   },
   {
-    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-07-14",
-    "end": "2026-07-14",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "start": "2026-07-14",
     "end": "2026-07-14",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
@@ -1936,14 +1936,14 @@
     "start": "2026-07-21",
     "end": "2026-07-21",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "MainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
     "start": "2026-07-21",
     "end": "2026-07-21",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "Minimum Splice.dar Versions",
@@ -1999,7 +1999,7 @@
     "start": "2026-07-28",
     "end": "2026-07-28",
     "description": "",
-    "category": "minimum-version"
+    "category": "general"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
