@@ -1669,8 +1669,15 @@
     "title": "TestNet Topology Freeze 9am",
     "start": "2026-06-16",
     "end": "2026-06-16",
-    "description": "DevNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "description": "",
     "category": "general"
+  },
+  {
+    "title": "DevNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "description": "",
+    "category": "minimum-version"
   },
   {
     "title": "Cut splice release 0.6.9",
@@ -1732,8 +1739,15 @@
     "title": "DevNet: Dry-run of traffic-based app rewards begins",
     "start": "2026-06-23",
     "end": "2026-06-23",
-    "description": "TestNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "description": "",
     "category": "general"
+  },
+  {
+    "title": "TestNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "start": "2026-06-23",
+    "end": "2026-06-23",
+    "description": "",
+    "category": "minimum-version"
   },
   {
     "title": "Cut splice release 0.6.10",
@@ -1788,7 +1802,14 @@
     "title": "DevNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "TestNet: Dry-run of traffic-based app rewards begins\nMainNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "description": "TestNet: Dry-run of traffic-based app rewards begins",
+    "category": "minimum-version"
+  },
+  {
+    "title": "MainNet: Daml models from Splice 0.6.7 effective (required for CIP-104)",
+    "start": "2026-06-30",
+    "end": "2026-06-30",
+    "description": "",
     "category": "minimum-version"
   },
   {
@@ -1865,8 +1886,15 @@
     "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
     "start": "2026-07-14",
     "end": "2026-07-14",
-    "description": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "description": "",
     "category": "general"
+  },
+  {
+    "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "start": "2026-07-14",
+    "end": "2026-07-14",
+    "description": "",
+    "category": "minimum-version"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
@@ -1900,8 +1928,22 @@
     "title": "TestNet: Traffic-based app rewards (CIP-104) goes live",
     "start": "2026-07-21",
     "end": "2026-07-21",
-    "description": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)\nMainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
+    "description": "",
     "category": "general"
+  },
+  {
+    "title": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": "",
+    "category": "minimum-version"
+  },
+  {
+    "title": "MainNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": "",
+    "category": "minimum-version"
   },
   {
     "title": "Minimum Splice.dar Versions",
@@ -1949,8 +1991,15 @@
     "title": "MainNet: Traffic-based app rewards (CIP-104) go live",
     "start": "2026-07-28",
     "end": "2026-07-28",
-    "description": "MainNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "description": "",
     "category": "general"
+  },
+  {
+    "title": "MainNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "start": "2026-07-28",
+    "end": "2026-07-28",
+    "description": "",
+    "category": "minimum-version"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
