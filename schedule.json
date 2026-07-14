@@ -1925,6 +1925,13 @@
     "category": "minimum-version"
   },
   {
+    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-07-21",
+    "end": "2026-07-21",
+    "description": "",
+    "category": "general"
+  },
+  {
     "title": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "start": "2026-07-21",
     "end": "2026-07-21",
@@ -1944,6 +1951,20 @@
     "end": "2026-07-21",
     "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
     "category": "minimum-version"
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-07-22",
+    "end": "2026-07-22",
+    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts July 14th, 24 hours before LSU",
+    "start": "2026-07-22",
+    "end": "2026-07-22",
+    "description": "",
+    "category": "general"
   },
   {
     "title": "Cut splice release 0.6.14",
@@ -2086,9 +2107,44 @@
     "category": "general"
   },
   {
-    "title": "MainNet: Traffic-based app rewards (CIP-104) goes live",
+    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
     "start": "2026-08-18",
     "end": "2026-08-18",
+    "description": "MainNet: Traffic-based app rewards (CIP-104) goes live",
+    "category": "general"
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-08-19",
+    "end": "2026-08-19",
+    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts July 28st, 24 hours before LSU",
+    "start": "2026-08-19",
+    "end": "2026-08-19",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-09-04",
+    "end": "2026-09-04",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-09-05",
+    "end": "2026-09-05",
+    "description": "MainNet LSU to adopt CantonBFT-based synchronizers",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts August 14th, 24 hours before LSU",
+    "start": "2026-09-05",
+    "end": "2026-09-05",
     "description": "",
     "category": "general"
   }
