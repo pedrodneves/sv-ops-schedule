@@ -1869,13 +1869,6 @@
     "category": "general"
   },
   {
-    "title": "DevNet:  Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-07-14",
-    "end": "2026-07-14",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "Weekly Splice Upgrade",
     "start": "2026-07-13",
     "end": "2026-07-13",
@@ -1893,20 +1886,6 @@
     "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "start": "2026-07-14",
     "end": "2026-07-14",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-07-15",
-    "end": "2026-07-15",
-    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 14th, 24 hours before LSU",
-    "start": "2026-07-15",
-    "end": "2026-07-15",
     "description": "",
     "category": "general"
   },
@@ -1960,7 +1939,7 @@
     "category": "general"
   },
   {
-    "title": "Topology freeze starts July 14th, 24 hours before LSU",
+    "title": "Topology freeze starts July 21th, 24 hours before LSU",
     "start": "2026-07-22",
     "end": "2026-07-22",
     "description": "",
@@ -2002,13 +1981,6 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "MainNet: Traffic-based app rewards (CIP-104) go live",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "MainNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "start": "2026-07-28",
     "end": "2026-07-28",
@@ -2016,21 +1988,7 @@
     "category": "general"
   },
   {
-    "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-07-29",
-    "end": "2026-07-29",
-    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 28st, 24 hours before LSU",
-    "start": "2026-07-29",
-    "end": "2026-07-29",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Cut splice release 0.6.15",
+    "title": "Cut splice release 0.7.0",
     "start": "2026-07-30",
     "end": "2026-07-30",
     "description": "",
@@ -2044,13 +2002,6 @@
     "category": "minimum-version"
   },
   {
-    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-07-28",
-    "end": "2026-07-28",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "Minimum Splice.dar Versions",
     "start": "2026-07-28",
     "end": "2026-07-28",
@@ -2058,17 +2009,38 @@
     "category": "minimum-version"
   },
   {
-    "title": "Deprecated TransferCommand functionality removed from validator app from DevNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
+    "title": "Weekly Splice Upgrade",
     "start": "2026-08-03",
     "end": "2026-08-03",
+    "description": "DevNet upgrades to Splice 0.7.0\nTestNet upgrades to Splice 0.6.14\nMainNet upgrades to Splice 0.6.13",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "DevNet Breaking API Change:",
+    "start": "2026-08-03",
+    "end": "2026-08-03",
+    "description": "Deprecated TransferCommand functionality removed from validator app from DevNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
+    "category": "general"
+  },
+  {
+    "title": "Cut splice release 0.7.1",
+    "start": "2026-08-06",
+    "end": "2026-08-06",
     "description": "",
     "category": "general"
   },
   {
-    "title": "Deprecated TransferCommand functionality removed from validator app from TestNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
+    "title": "Weekly Splice Upgrade",
     "start": "2026-08-10",
     "end": "2026-08-10",
-    "description": "",
+    "description": "DevNet upgrades to Splice 0.7.1\nTestNet upgrades to Splice 0.7.0\nMainNet upgrades to Splice 0.6.14",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "TestNet Breaking API Change:",
+    "start": "2026-08-10",
+    "end": "2026-08-10",
+    "description": "Deprecated TransferCommand functionality removed from validator app from TestNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
     "category": "general"
   },
   {
@@ -2079,51 +2051,114 @@
     "category": "general"
   },
   {
-    "title": "MainNet Topology Freeze 9am US Eastern / 1300 UTC",
-    "start": "2026-08-14",
-    "end": "2026-08-14",
+    "title": "Cut splice release 0.7.2",
+    "start": "2026-08-13",
+    "end": "2026-08-13",
     "description": "",
     "category": "general"
   },
   {
-    "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-08-15",
-    "end": "2026-08-15",
-    "description": "MainNet LSU to adopt CantonBFT-based synchronizers",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts August 14th, 24 hours before LSU",
-    "start": "2026-08-15",
-    "end": "2026-08-15",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Deprecated TransferCommand functionality removed from validator app from MainNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
+    "title": "Weekly Splice Upgrade",
     "start": "2026-08-17",
     "end": "2026-08-17",
-    "description": "",
+    "description": "DevNet upgrades to Splice 0.7.2\nTestNet upgrades to Splice 0.7.1\nMainNet upgrades to Splice 0.7.0",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "MainNet Breaking API Change: Deprecated TransferCommand functionality removed from validator app from MainNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
+    "start": "2026-08-17",
+    "end": "2026-08-17",
+    "description": "DevNet: Validators must upgrade to 0.7.x",
     "category": "general"
   },
   {
-    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "title": "DevNet New Daml models effective (0.7)",
     "start": "2026-08-18",
     "end": "2026-08-18",
-    "description": "MainNet: Traffic-based app rewards (CIP-104) goes live",
+    "description": "DevNet: Topology Freeze 9am US Eastern / 1300 UTC\nMainNet: Traffic-based app rewards (CIP-104) goes live",
     "category": "general"
   },
   {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-08-19",
     "end": "2026-08-19",
-    "description": "TestNet: LSU to adopt CantonBFT-based synchronizers.",
+    "description": "DevNet: LSU (0.7)",
     "category": "general"
   },
   {
-    "title": "Topology freeze starts July 28st, 24 hours before LSU",
-    "start": "2026-08-19",
-    "end": "2026-08-19",
+    "title": "Cut splice release 0.7.3",
+    "start": "2026-08-20",
+    "end": "2026-08-20",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-08-24",
+    "end": "2026-08-24",
+    "description": "DevNet upgrades to Splice 0.7.3\nTestNet upgrades to Splice 0.7.2\nMainNet upgrades to Splice 0.7.1",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "DevNet Breaking Config Changes (0.7)",
+    "start": "2026-08-25",
+    "end": "2026-08-25",
+    "description": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "category": "general"
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-08-26",
+    "end": "2026-08-26",
+    "description": "TestNet: LSU (0.7)\n(+ adopt CantonBFT-based synchronizers).",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts Aug 25, 24 hours before LSU",
+    "start": "2026-08-26",
+    "end": "2026-08-26",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Cut splice release 0.7.4",
+    "start": "2026-08-27",
+    "end": "2026-08-27",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet: Validators must upgrade to 0.7.x",
+    "start": "2026-08-24",
+    "end": "2026-08-24",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet New Daml models effective (0.7)",
+    "start": "2026-08-25",
+    "end": "2026-08-25",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-08-31",
+    "end": "2026-08-31",
+    "description": "DevNet upgrades to Splice 0.7.4\nTestNet upgrades to Splice 0.7.3\nMainNet upgrades to Splice 0.7.2",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "TestNet Breaking Config Changes (0.7)",
+    "start": "2026-09-01",
+    "end": "2026-09-01",
+    "description": "MainNet new Daml models effective (0.7)",
+    "category": "general"
+  },
+  {
+    "title": "Cut splice release 0.8.0",
+    "start": "2026-09-03",
+    "end": "2026-09-03",
     "description": "",
     "category": "general"
   },
@@ -2138,13 +2173,153 @@
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-09-05",
     "end": "2026-09-05",
-    "description": "MainNet LSU to adopt CantonBFT-based synchronizers",
+    "description": "MainNet LSU (0.7)\n(+ adopt CantonBFT-based synchronizers)",
     "category": "general"
   },
   {
-    "title": "Topology freeze starts August 14th, 24 hours before LSU",
+    "title": "Topology freeze starts September 4, 24 hours before LSU",
     "start": "2026-09-05",
     "end": "2026-09-05",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet: Validators must upgrade to 0.7.x",
+    "start": "2026-08-31",
+    "end": "2026-08-31",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-09-07",
+    "end": "2026-09-07",
+    "description": "DevNet upgrades to Splice 0.8.0\nTestNet upgrades to Splice 0.7.4\nMainNet upgrades to Splice 0.7.3",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "MainNet breaking config change (0.7)",
+    "start": "2026-09-08",
+    "end": "2026-09-08",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Cut splice release 0.8.1",
+    "start": "2026-09-10",
+    "end": "2026-09-10",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-09-14",
+    "end": "2026-09-14",
+    "description": "DevNet upgrades to Splice 0.8.1\nTestNet upgrades to Splice 0.8.0\nMainNet upgrades to Splice 0.7.4",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "Cut splice release 0.8.2",
+    "start": "2026-09-17",
+    "end": "2026-09-17",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-09-21",
+    "end": "2026-09-21",
+    "description": "DevNet upgrades to Splice 0.8.2\nTestNet upgrades to Splice 0.8.1\nMainNet upgrades to Splice 0.8.0",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "DevNet Topology Freeze",
+    "start": "2026-09-22",
+    "end": "2026-09-22",
+    "description": "DevNet New Daml models effective (0.8)",
+    "category": "general"
+  },
+  {
+    "title": "DevNet LSU (0.8)",
+    "start": "2026-09-23",
+    "end": "2026-09-23",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Cut splice release 0.8.3",
+    "start": "2026-09-24",
+    "end": "2026-09-24",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "DevNet: Validators must upgrade to 0.8.x",
+    "start": "2026-09-21",
+    "end": "2026-09-21",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Weekly Splice Upgrade",
+    "start": "2026-09-28",
+    "end": "2026-09-28",
+    "description": "DevNet upgrades to Splice 0.8.3\nTestNet upgrades to Splice 0.8.2\nMainNet upgrades to Splice 0.8.1",
+    "category": "weekly-upgrade"
+  },
+  {
+    "title": "DevNet breaking config change (0.8)",
+    "start": "2026-09-29",
+    "end": "2026-09-29",
+    "description": "TestNet New Daml models effective (0.8)\nTestNet Topology Freeze",
+    "category": "general"
+  },
+  {
+    "title": "TestNet LSU (0.8)",
+    "start": "2026-09-30",
+    "end": "2026-09-30",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "Cut splice release 0.9.0",
+    "start": "2026-10-01",
+    "end": "2026-10-01",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet: Validators must upgrade to 0.8.x",
+    "start": "2026-09-28",
+    "end": "2026-09-28",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet: Validators must upgrade to 0.8.x",
+    "start": "2026-10-05",
+    "end": "2026-10-05",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet breaking config change (0.8)",
+    "start": "2026-10-06",
+    "end": "2026-10-06",
+    "description": "MainNet new Daml models effective (0.8)",
+    "category": "general"
+  },
+  {
+    "title": "MainNet Topology Freeze",
+    "start": "2026-10-09",
+    "end": "2026-10-09",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet LSU (0.8)",
+    "start": "2026-10-10",
+    "end": "2026-10-10",
     "description": "",
     "category": "general"
   }
