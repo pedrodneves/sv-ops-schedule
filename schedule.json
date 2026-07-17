@@ -1925,13 +1925,6 @@
     "category": "general"
   },
   {
-    "title": "Minimum Splice.dar Versions",
-    "start": "2026-07-21",
-    "end": "2026-07-21",
-    "description": "DevNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nTestNet:\namulet 0.1.21\namuletNameService 0.1.22\ndsoGovernance 0.1.27\nvalidatorLifecycle 0.1.8\nwallet 0.1.22\nwalletPayments 0.1.21\nMainNet:\namulet 0.1.20\namuletNameService 0.1.21\ndsoGovernance 0.1.26\nvalidatorLifecycle 0.1.7\nwallet 0.1.21\nwalletPayments 0.1.20",
-    "category": "minimum-version"
-  },
-  {
     "title": "9 am US Eastern / 1300 UTC:",
     "start": "2026-07-22",
     "end": "2026-07-22",
