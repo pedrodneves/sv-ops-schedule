@@ -1802,7 +1802,14 @@
     "title": "DevNet: Daml models from Splice 0.6.9 effective (required for CIP-119)",
     "start": "2026-06-30",
     "end": "2026-06-30",
-    "description": "TestNet: Dry-run of traffic-based app rewards begins",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet: Dry-run of traffic-based app rewards begins",
+    "start": "2026-06-30",
+    "end": "2026-06-30",
+    "description": "",
     "category": "general"
   },
   {
@@ -1851,7 +1858,14 @@
     "title": "DevNet: Traffic-based app rewards (CIP-104) goes live",
     "start": "2026-07-07",
     "end": "2026-07-07",
-    "description": "MainNet: Dry-run of traffic-based app rewards begins",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet: Dry-run of traffic-based app rewards begins",
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "description": "",
     "category": "general"
   },
   {
@@ -2068,7 +2082,21 @@
     "title": "DevNet New Daml models effective (0.7)",
     "start": "2026-08-18",
     "end": "2026-08-18",
-    "description": "DevNet: Topology Freeze 9am US Eastern / 1300 UTC\nMainNet: Traffic-based app rewards (CIP-104) goes live",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "DevNet: Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-08-18",
+    "end": "2026-08-18",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet: Traffic-based app rewards (CIP-104) goes live",
+    "start": "2026-08-18",
+    "end": "2026-08-18",
+    "description": "",
     "category": "general"
   },
   {
@@ -2096,7 +2124,14 @@
     "title": "DevNet Breaking Config Changes (0.7)",
     "start": "2026-08-25",
     "end": "2026-08-25",
-    "description": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-08-25",
+    "end": "2026-08-25",
+    "description": "",
     "category": "general"
   },
   {
@@ -2145,7 +2180,14 @@
     "title": "TestNet Breaking Config Changes (0.7)",
     "start": "2026-09-01",
     "end": "2026-09-01",
-    "description": "MainNet new Daml models effective (0.7)",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet new Daml models effective (0.7)",
+    "start": "2026-09-01",
+    "end": "2026-09-01",
+    "description": "",
     "category": "general"
   },
   {
@@ -2229,7 +2271,14 @@
     "title": "DevNet Topology Freeze",
     "start": "2026-09-22",
     "end": "2026-09-22",
-    "description": "DevNet New Daml models effective (0.8)",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "DevNet New Daml models effective (0.8)",
+    "start": "2026-09-22",
+    "end": "2026-09-22",
+    "description": "",
     "category": "general"
   },
   {
@@ -2264,7 +2313,21 @@
     "title": "DevNet breaking config change (0.8)",
     "start": "2026-09-29",
     "end": "2026-09-29",
-    "description": "TestNet New Daml models effective (0.8)\nTestNet Topology Freeze",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet New Daml models effective (0.8)",
+    "start": "2026-09-29",
+    "end": "2026-09-29",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "TestNet Topology Freeze",
+    "start": "2026-09-29",
+    "end": "2026-09-29",
+    "description": "",
     "category": "general"
   },
   {
@@ -2299,7 +2362,14 @@
     "title": "TestNet breaking config change (0.8)",
     "start": "2026-10-06",
     "end": "2026-10-06",
-    "description": "MainNet new Daml models effective (0.8)",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet new Daml models effective (0.8)",
+    "start": "2026-10-06",
+    "end": "2026-10-06",
+    "description": "",
     "category": "general"
   },
   {
