@@ -2100,10 +2100,10 @@
     "category": "general"
   },
   {
-    "title": "9 am US Eastern / 1300 UTC:",
+    "title": "DevNet: LSU (0.7)",
     "start": "2026-08-19",
     "end": "2026-08-19",
-    "description": "DevNet: LSU (0.7)",
+    "description": "",
     "category": "general"
   },
   {
@@ -2135,10 +2135,10 @@
     "category": "general"
   },
   {
-    "title": "9 am US Eastern / 1300 UTC:",
+    "title": "TestNet: LSU (0.7)",
     "start": "2026-08-26",
     "end": "2026-08-26",
-    "description": "TestNet: LSU (0.7)\n(+ adopt CantonBFT-based synchronizers).",
+    "description": "(+ adopt CantonBFT-based synchronizers).",
     "category": "general"
   },
   {
