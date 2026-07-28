@@ -493,14 +493,7 @@
     "title": "Deploy Splice 0.4.14 on TestNet",
     "start": "2025-09-08",
     "end": "2025-09-08",
-    "description": "",
-    "category": "general"
-  },
-  {
-    "title": "Deploy Splice 0.4.12 on MainNet",
-    "start": "2025-09-08",
-    "end": "2025-09-08",
-    "description": "GSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)\namulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18\nvalidatorLifecycle 0.1.5\nwallet 0.1.13\nwalletPayments 0.1.13",
+    "description": "c\nGSF/IEU start vote for upgrading to all Daml model changes from 0.4.5 through 0.4.13 on TestNet (CIPs: CIP-0066 and CIP-0068 as well as the dsoGovernance 0.1.18 bugfix)\namulet 0.1.13\namuletNameService 0.1.13\ndsoGovernance 0.1.18\nvalidatorLifecycle 0.1.5\nwallet 0.1.13\nwalletPayments 0.1.13",
     "category": "general"
   },
   {
@@ -1981,7 +1974,7 @@
     "category": "general"
   },
   {
-    "title": "Topology freeze starts July 21th, 24 hours before LSU",
+    "title": "Topology freeze starts July 28th, 24 hours before LSU",
     "start": "2026-07-29",
     "end": "2026-07-29",
     "description": "",
