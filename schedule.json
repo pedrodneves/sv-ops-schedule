@@ -1939,20 +1939,6 @@
     "category": "general"
   },
   {
-    "title": "9 am US Eastern / 1300 UTC:",
-    "start": "2026-07-22",
-    "end": "2026-07-22",
-    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
-    "category": "general"
-  },
-  {
-    "title": "Topology freeze starts July 21th, 24 hours before LSU",
-    "start": "2026-07-22",
-    "end": "2026-07-22",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "Cut splice release 0.6.14",
     "start": "2026-07-23",
     "end": "2026-07-23",
@@ -1984,6 +1970,20 @@
     "title": "MainNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
     "start": "2026-07-28",
     "end": "2026-07-28",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "9 am US Eastern / 1300 UTC:",
+    "start": "2026-07-29",
+    "end": "2026-07-29",
+    "description": "DevNet: LSU to adopt CantonBFT-based synchronizers.",
+    "category": "general"
+  },
+  {
+    "title": "Topology freeze starts July 21th, 24 hours before LSU",
+    "start": "2026-07-29",
+    "end": "2026-07-29",
     "description": "",
     "category": "general"
   },
