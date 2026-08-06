@@ -1890,7 +1890,7 @@
     "category": "minimum-version"
   },
   {
-    "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "title": "DevNet: Daml models from Splice 0.6.11 effective (required for CIP-0112)",
     "start": "2026-07-14",
     "end": "2026-07-14",
     "description": "",
@@ -1918,7 +1918,7 @@
     "category": "general"
   },
   {
-    "title": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-112)",
+    "title": "TestNet: Daml models from Splice 0.6.11 effective (required for CIP-0112)",
     "start": "2026-07-21",
     "end": "2026-07-21",
     "description": "",
@@ -1960,7 +1960,7 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "MainNet: Daml models from Splice 0.6.11 take effect (required for CIP-112)",
+    "title": "MainNet: Daml models from Splice 0.6.11 take effect (required for CIP-0112)",
     "start": "2026-07-28",
     "end": "2026-07-28",
     "description": "",
