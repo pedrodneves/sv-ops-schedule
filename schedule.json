@@ -2082,7 +2082,7 @@
     "title": "MainNet Breaking API Change: Deprecated TransferCommand functionality removed from validator app from MainNet. If you see validator logs involving TransferCommandSendTrigger you are still using it and should migrate to token standard transfers before this date.",
     "start": "2026-08-17",
     "end": "2026-08-17",
-    "description": "DevNet: Validators must upgrade to 0.7.x",
+    "description": "DevNet: Validators must upgrade to 0.7.0",
     "category": "general"
   },
   {
@@ -2091,6 +2091,13 @@
     "end": "2026-08-20",
     "description": "",
     "category": "general"
+  },
+  {
+    "title": "Minimum Splice Versions for Validators",
+    "start": "2026-08-17",
+    "end": "2026-08-17",
+    "description": "DevNet: 0.7.0\nTestNet: 0.6.12\nMainNet: 0.6.12",
+    "category": "minimum-version"
   },
   {
     "title": "MainNet: Daml Models from Splice 0.6.12 take effect",
