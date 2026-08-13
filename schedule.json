@@ -2086,13 +2086,6 @@
     "category": "general"
   },
   {
-    "title": "MainNet: Traffic-based app rewards (CIP-104) goes live",
-    "start": "2026-08-18",
-    "end": "2026-08-18",
-    "description": "",
-    "category": "general"
-  },
-  {
     "title": "Cut splice release 0.7.3",
     "start": "2026-08-20",
     "end": "2026-08-20",
@@ -2121,24 +2114,31 @@
     "category": "weekly-upgrade"
   },
   {
-    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "title": "CANCELLED",
     "start": "2026-08-25",
     "end": "2026-08-25",
     "description": "",
     "category": "general"
   },
   {
-    "title": "TestNet: LSU",
+    "title": "TestNet:  Topology Freeze 9am US Eastern / 1300 UTC",
+    "start": "2026-08-25",
+    "end": "2026-08-25",
+    "description": "CANCELLED",
+    "category": "general"
+  },
+  {
+    "title": "CANCELLED",
     "start": "2026-08-26",
     "end": "2026-08-26",
-    "description": "",
+    "description": "TestNet: LSU",
     "category": "general"
   },
   {
     "title": "Topology freeze starts Aug 25, 24 hours before LSU",
     "start": "2026-08-26",
     "end": "2026-08-26",
-    "description": "",
+    "description": "CANCELLED",
     "category": "general"
   },
   {
@@ -2152,6 +2152,13 @@
     "title": "TestNet: Validators must upgrade to 0.7.x",
     "start": "2026-08-24",
     "end": "2026-08-24",
+    "description": "",
+    "category": "general"
+  },
+  {
+    "title": "MainNet: Traffic-based app rewards (CIP-104) goes live",
+    "start": "2026-08-25",
+    "end": "2026-08-25",
     "description": "",
     "category": "general"
   },
@@ -2170,9 +2177,23 @@
     "category": "general"
   },
   {
+    "title": "CANCELLED",
+    "start": "2026-09-04",
+    "end": "2026-09-04",
+    "description": "",
+    "category": "general"
+  },
+  {
     "title": "MainNet Topology Freeze 9am US Eastern / 1300 UTC",
     "start": "2026-09-04",
     "end": "2026-09-04",
+    "description": "CANCELLED",
+    "category": "general"
+  },
+  {
+    "title": "CANCELLED",
+    "start": "2026-09-05",
+    "end": "2026-09-05",
     "description": "",
     "category": "general"
   },
@@ -2187,7 +2208,7 @@
     "title": "Topology freeze starts September 4, 24 hours before LSU",
     "start": "2026-09-05",
     "end": "2026-09-05",
-    "description": "",
+    "description": "CANCELLED",
     "category": "general"
   },
   {
