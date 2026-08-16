@@ -2075,7 +2075,7 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-08-17",
     "end": "2026-08-17",
-    "description": "DevNet upgrades to Splice 0.7.2\nTestNet upgrades to Splice 0.7.1\nMainNet upgrades to Splice 0.7.0",
+    "description": "DevNet upgrades to Splice 0.7.32\nTestNet upgrades to Splice 0.7.1\nMainNet upgrades to Splice 0.7.0",
     "category": "weekly-upgrade"
   },
   {
@@ -2086,7 +2086,7 @@
     "category": "general"
   },
   {
-    "title": "Cut splice release 0.7.3",
+    "title": "Cut splice release 0.7.43",
     "start": "2026-08-20",
     "end": "2026-08-20",
     "description": "",
@@ -2117,7 +2117,7 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-08-24",
     "end": "2026-08-24",
-    "description": "DevNet upgrades to Splice 0.7.3\nTestNet upgrades to Splice 0.7.2\nMainNet upgrades to Splice 0.7.1",
+    "description": "DevNet upgrades to Splice 0.7.43\nTestNet upgrades to Splice 0.7.32\nMainNet upgrades to Splice 0.7.1",
     "category": "weekly-upgrade"
   },
   {
@@ -2149,7 +2149,7 @@
     "category": "general"
   },
   {
-    "title": "Cut splice release 0.7.4",
+    "title": "Cut splice release 0.7.54",
     "start": "2026-08-27",
     "end": "2026-08-27",
     "description": "",
@@ -2173,7 +2173,7 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-08-31",
     "end": "2026-08-31",
-    "description": "DevNet upgrades to Splice 0.7.4\nTestNet upgrades to Splice 0.7.3\nMainNet upgrades to Splice 0.7.2",
+    "description": "DevNet upgrades to Splice 0.7.44\nTestNet upgrades to Splice 0.7.43\nMainNet upgrades to Splice 0.7.32",
     "category": "weekly-upgrade"
   },
   {
@@ -2229,7 +2229,7 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-09-07",
     "end": "2026-09-07",
-    "description": "DevNet upgrades to Splice 0.8.0\nTestNet upgrades to Splice 0.7.4\nMainNet upgrades to Splice 0.7.3",
+    "description": "DevNet upgrades to Splice 0.8.0\nTestNet upgrades to Splice 0.7.54\nMainNet upgrades to Splice 0.7.43",
     "category": "weekly-upgrade"
   },
   {
@@ -2257,7 +2257,7 @@
     "title": "Weekly Splice Upgrade",
     "start": "2026-09-14",
     "end": "2026-09-14",
-    "description": "DevNet upgrades to Splice 0.8.1\nTestNet upgrades to Splice 0.8.0\nMainNet upgrades to Splice 0.7.4",
+    "description": "DevNet upgrades to Splice 0.8.1\nTestNet upgrades to Splice 0.8.0\nMainNet upgrades to Splice 0.7.54",
     "category": "weekly-upgrade"
   },
   {
